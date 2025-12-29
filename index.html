@@ -1,0 +1,224 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="Jennifer K Bertrand — research, papers, CV, contact." />
+  <title>Jennifer K Bertrand</title>
+
+  <style>
+    :root {
+      --bg: #ffffff;
+      --text: #111827;
+      --muted: #6b7280;
+      --card: #f8fafc;
+      --border: #e5e7eb;
+      --link: #0f766e;
+      --link-hover: #115e59;
+      --shadow: 0 10px 30px rgba(0,0,0,.06);
+      --radius: 16px;
+      --max: 920px;
+    }
+
+    * { box-sizing: border-box; }
+    html, body { height: 100%; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font: 16px/1.6 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+    }
+
+    a { color: var(--link); text-decoration: none; }
+    a:hover { color: var(--link-hover); text-decoration: underline; }
+
+    .wrap {
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 56px 20px 72px;
+    }
+
+    header {
+      display: grid;
+      gap: 18px;
+      margin-bottom: 28px;
+    }
+
+    .name {
+      font-size: clamp(30px, 3.6vw, 44px);
+      font-weight: 750;
+      letter-spacing: -0.02em;
+      margin: 0;
+    }
+
+    .tagline {
+      margin: 0;
+      color: var(--muted);
+      max-width: 70ch;
+    }
+
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 6px;
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: #fff;
+      box-shadow: 0 1px 0 rgba(0,0,0,.02);
+      color: var(--text);
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1.35fr 0.65fr;
+      gap: 18px;
+      align-items: start;
+      margin-top: 24px;
+    }
+
+    @media (max-width: 860px) {
+      .grid { grid-template-columns: 1fr; }
+    }
+
+    section {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 18px;
+      box-shadow: var(--shadow);
+    }
+
+    h2 {
+      margin: 2px 0 12px;
+      font-size: 16px;
+      letter-spacing: -0.01em;
+      text-transform: none;
+    }
+
+    .muted { color: var(--muted); }
+
+    ul { margin: 0; padding-left: 18px; }
+    li { margin: 10px 0; }
+
+    .paper-title { font-weight: 700; }
+    .paper-meta { color: var(--muted); font-size: 14px; margin-top: 3px; }
+
+    .hr {
+      height: 1px;
+      background: var(--border);
+      margin: 16px 0;
+    }
+
+    footer {
+      margin-top: 22px;
+      color: var(--muted);
+      font-size: 13px;
+      text-align: center;
+    }
+
+    /* optional: nicer focus outlines */
+    a:focus, button:focus {
+      outline: 3px solid rgba(15, 118, 110, .25);
+      outline-offset: 2px;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+
+    <header>
+      <h1 class="name">Jennifer K Bertrand</h1>
+
+      <p class="tagline">
+        <!-- Replace this with 1–2 lines you like -->
+        Postdoctoral researcher. I work on human–computer interaction and digital health measurement.
+      </p>
+
+      <nav>
+        <a class="pill" href="#papers">Papers</a>
+        <a class="pill" href="#cv">CV</a>
+        <a class="pill" href="#contact">Contact</a>
+        <!-- Add later if you want: <a class="pill" href="#projects">Research areas</a> -->
+      </nav>
+    </header>
+
+    <div class="grid">
+      <!-- Left column -->
+      <section id="papers" aria-label="Papers">
+        <h2>Papers</h2>
+
+        <ul>
+          <li>
+            <div class="paper-title">Paper Title One</div>
+            <div class="paper-meta">Journal / Conference • Year</div>
+            <div class="paper-meta">
+              <a href="#" target="_blank" rel="noopener">PDF</a> ·
+              <a href="#" target="_blank" rel="noopener">Publisher</a> ·
+              <a href="#" target="_blank" rel="noopener">Code</a>
+            </div>
+          </li>
+
+          <li>
+            <div class="paper-title">Paper Title Two</div>
+            <div class="paper-meta">Journal / Conference • Year</div>
+            <div class="paper-meta">
+              <a href="#" target="_blank" rel="noopener">PDF</a> ·
+              <a href="#" target="_blank" rel="noopener">Publisher</a>
+            </div>
+          </li>
+        </ul>
+
+        <div class="hr"></div>
+        <p class="muted" style="margin:0;">
+          Tip: you can host PDFs directly in this GitHub repo (e.g., <code>/pdfs/paper1.pdf</code>)
+          and link to them from here.
+        </p>
+      </section>
+
+      <!-- Right column -->
+      <section id="cv" aria-label="CV">
+        <h2>CV</h2>
+        <p style="margin: 0 0 10px;">
+          <a href="cv.pdf" target="_blank" rel="noopener">Download CV (PDF)</a>
+        </p>
+        <p class="muted" style="margin:0;">
+          Put a file named <code>cv.pdf</code> in the same folder as this page.
+        </p>
+
+        <div class="hr"></div>
+
+        <div id="contact" aria-label="Contact">
+          <h2>Contact</h2>
+          <ul>
+            <li><a href="mailto:YOUR.EMAIL@domain.com">YOUR.EMAIL@domain.com</a></li>
+            <li><a href="#" target="_blank" rel="noopener">Google Scholar</a></li>
+            <li><a href="#" target="_blank" rel="noopener">ORCID</a></li>
+            <li><a href="#" target="_blank" rel="noopener">GitHub</a></li>
+            <li><a href="#" target="_blank" rel="noopener">LinkedIn</a></li>
+          </ul>
+        </div>
+      </section>
+    </div>
+
+    <footer>
+      © <span id="y"></span> Jennifer K Bertrand
+    </footer>
+  </div>
+
+  <script>
+    document.getElementById("y").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
