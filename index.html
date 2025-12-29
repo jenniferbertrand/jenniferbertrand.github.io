@@ -155,6 +155,51 @@
     color: inherit;
     }
 
+    .pub-title-row {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    }
+
+    .pub-title-link {
+    color: var(--link);
+    font-weight: 800;
+    text-decoration: none;
+    }
+
+    .pub-title-link:hover {
+    text-decoration: underline;
+    }
+
+    .pub-icons {
+    display: inline-flex;
+    gap: 8px;
+    flex: 0 0 auto;
+    }
+
+    .pub-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px;
+    height: 26px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: #fff;
+    line-height: 1;
+    }
+
+    .pub-icon:hover {
+    text-decoration: none;
+    filter: brightness(0.98);
+    }
+
+    .pub-icon svg {
+    width: 14px;
+    height: 14px;
+    }
+
+
     .pub-authors {
     margin: 0 0 2px;
     font-size: 14px;
@@ -271,9 +316,24 @@
         </li>
 
         <li class="pub-item">
-            <p class="pub-title">
-            Dynamics of eye–hand coordination are flexibly preserved in eye–cursor coordination during an online, digital, object interaction task
-            </p>
+            <div class="pub-title-row">
+            <a class="pub-title-link" href="https://dl.acm.org/doi/full/10.1145/3544548.3580866" target="_blank" rel="noopener">
+                Dynamics of eye–hand coordination are flexibly preserved in eye–cursor coordination during an online, digital, object interaction task
+            </a>
+
+            <span class="pub-icons">
+                <a class="pub-icon" href="pdfs/Bertrand and Chapman - 2023 - Dynamics of eye-hand coordination are flexibly pre.pdf" title="PDF" aria-label="PDF">
+                <!-- simple PDF icon -->
+                <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                    <path d="M7 3h7l3 3v15H7V3Z" stroke="currentColor" stroke-width="1.6"/>
+                    <path d="M14 3v4h4" stroke="currentColor" stroke-width="1.6"/>
+                    <path d="M9 16h6" stroke="currentColor" stroke-width="1.6"/>
+                    <path d="M9 13h6" stroke="currentColor" stroke-width="1.6"/>
+                </svg>
+                </a>
+            </span>
+            </div>
+
             <p class="pub-authors">
             <span class="pub-me">Jennifer K Bertrand</span>, Craig S Chapman
             </p>
