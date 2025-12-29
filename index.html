@@ -86,6 +86,13 @@
       margin-top: 24px;
     }
 
+    .sidebar {
+      display: grid;
+      gap: 18px;
+      align-content: start;
+    }
+
+
     @media (max-width: 860px) {
       .grid { grid-template-columns: 1fr; }
     }
@@ -343,60 +350,51 @@
             </div>
             </li>
         </ul>
-        </section>
-
 
         <div class="hr"></div>
         <p class="muted" style="margin:0;">
             PDFs and supplementary materials will be added shortly.
         </p>
-        </section>
+      </section>
 
+    
+
+    <!-- Right column -->
+    <div class="sidebar">
     <section id="research" aria-label="Research Areas">
         <h2>Research Areas</h2>
         <ul>
-            <li>Digital measurement of human movement, perception, and experience</li>
-            <li>Human–computer interaction and multimodal interaction techniques</li>
-            <li>Eye tracking, cursor/mouse tracking, and markerless motion capture</li>
-            <li>Remote and scalable assessment of cognition and physical function</li>
-            <li>User experience and interaction design for health and digital systems</li>
+        <li>Digital measurement of human movement, perception, and experience</li>
+        <li>Human–computer interaction and multimodal interaction techniques</li>
+        <li>Eye tracking, cursor/mouse tracking, and markerless motion capture</li>
+        <li>Remote and scalable assessment of cognition and physical function</li>
+        <li>User experience and interaction design for health and digital systems</li>
         </ul>
-    </section>  
+    </section>
 
-
-      <!-- Right column -->
-      <section id="cv" aria-label="CV">
+    <section id="cv" aria-label="CV">
         <h2>CV</h2>
         <p style="margin: 0 0 10px;">
-          <a href="cv.pdf" target="_blank" rel="noopener">Download CV (PDF)</a>
+        <a href="cv.pdf" target="_blank" rel="noopener">Download CV (PDF)</a>
         </p>
         <p class="muted" style="margin:0;">
-          Put a file named <code>cv.pdf</code> in the same folder as this page.
+        Put a file named <code>cv.pdf</code> in the same folder as this page.
         </p>
 
         <div class="hr"></div>
 
         <div id="contact" aria-label="Contact">
-            <h2>Contact</h2>
-            <ul>
-                <li>
-                jenniferkbertrand <span class="muted">[at]</span> gmail <span class="muted">[dot]</span> com
-                </li>
-                <li>
-                <a href="https://scholar.google.ca/citations?user=ZDtAV8gAAAAJ" target="_blank" rel="noopener">
-                    Google Scholar
-                </a>
-                </li>
-                <li>
-                <a href="https://www.linkedin.com/in/jenniferkbertrand/" target="_blank" rel="noopener">
-                    LinkedIn
-                </a>
-                </li>
-            </ul>
+        <h2>Contact</h2>
+        <ul>
+            <li>jenniferkbertrand <span class="muted">[at]</span> gmail <span class="muted">[dot]</span> com</li>
+            <li><a href="https://scholar.google.ca/citations?user=ZDtAV8gAAAAJ" target="_blank" rel="noopener">Google Scholar</a></li>
+            <li><a href="https://www.linkedin.com/in/jenniferkbertrand/" target="_blank" rel="noopener">LinkedIn</a></li>
+        </ul>
         </div>
-
-      </section>
+    </section>
     </div>
+    </div>
+
 
     <footer>
       © <span id="y"></span> Jennifer K Bertrand
