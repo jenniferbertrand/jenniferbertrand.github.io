@@ -180,24 +180,27 @@
     .pub-icon {
     display: inline-flex;
     align-items: center;
-    justify-content: center;
-    width: 26px;
-    height: 26px;
+    gap: 4px;
+    padding: 4px 8px;
     border: 1px solid var(--border);
     border-radius: 8px;
     background: #fff;
-    line-height: 1;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    color: var(--link);
     }
 
     .pub-icon:hover {
     text-decoration: none;
-    filter: brightness(0.98);
+    background: #f0fdfa;
     }
 
     .pub-icon svg {
     width: 14px;
     height: 14px;
     }
+
 
 
     .pub-authors {
@@ -322,14 +325,13 @@
             </a>
 
             <span class="pub-icons">
-                <a class="pub-icon" href="pdfs/Bertrand and Chapman - 2023 - Dynamics of eye-hand coordination are flexibly pre.pdf" title="PDF" aria-label="PDF">
+                <a class="pub-icon" href="pdfs/Bertrand and Chapman - 2023 - Dynamics of eye-hand coordination are flexibly pre.pdf" title="Download PDF" aria-label="PDF">
                 <!-- simple PDF icon -->
                 <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
                     <path d="M7 3h7l3 3v15H7V3Z" stroke="currentColor" stroke-width="1.6"/>
                     <path d="M14 3v4h4" stroke="currentColor" stroke-width="1.6"/>
-                    <path d="M9 16h6" stroke="currentColor" stroke-width="1.6"/>
-                    <path d="M9 13h6" stroke="currentColor" stroke-width="1.6"/>
                 </svg>
+                PDF
                 </a>
             </span>
             </div>
