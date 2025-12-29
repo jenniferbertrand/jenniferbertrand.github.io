@@ -120,6 +120,59 @@
     .paper-title { font-weight: 700; }
     .paper-meta { color: var(--muted); font-size: 14px; margin-top: 3px; }
 
+    /* Publications styling */
+    .pub-year {
+    margin: 18px 0 10px;
+    font-size: 14px;
+    font-weight: 800;
+    color: var(--muted);
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    }
+
+    .pub-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+    }
+
+    .pub-item {
+    padding: 12px 0;
+    border-bottom: 1px solid var(--border);
+    }
+
+    .pub-item:last-child {
+    border-bottom: none;
+    }
+
+    .pub-title {
+    font-weight: 800;
+    margin: 0 0 4px;
+    color: var(--link);            /* title accent color */
+    }
+
+    .pub-title a {
+    color: inherit;
+    }
+
+    .pub-authors {
+    margin: 0 0 2px;
+    font-size: 14px;
+    color: var(--text);
+    }
+
+    .pub-venue {
+    margin: 0;
+    font-size: 14px;
+    color: var(--muted);
+    }
+    
+    .pub-me {
+    text-decoration: underline;
+    font-weight: 600;
+    }
+
+
     .hr {
       height: 1px;
       background: var(--border);
@@ -165,197 +218,159 @@
     <div class="grid">
       <!-- Left column -->
       <section id="papers" aria-label="Papers">
+        
         <h2>Papers</h2>
 
-        <!-- 2025 -->
-        <h3 class="muted">2025</h3>
-        <ul>
-            <li>
-            <div class="paper-title">
-                Validation of a markerless motion capture app for automated scoring of
-                sit-to-stand, timed up and go, and short physical performance battery tests
-                in adults with chronic disease <em>(In Press)</em>
-            </div>
-            <div class="paper-meta">
-                <strong>Bertrand JK</strong>, McNeely ML, Bates J, Joy J, Kanani J,
-                Ezeugwu V, Tandon P
-            </div>
-            <div class="paper-meta">
-                <em>PLOS Digital Health</em>, 2025
-            </div>
-            </li>
+        <div class="pub-year">2025</div>
+        <ul class="pub-list">
+        <li class="pub-item">
+            <p class="pub-title">
+            Validation of a markerless motion capture app for automated scoring of sit-to-stand, timed up and go, and short physical performance battery tests in adults with chronic disease <em>(In Press)</em>
+            </p>
+            <p class="pub-authors">
+            <span class="pub-me">Jennifer K Bertrand</span>, Margaret L McNeely, Jack Bates, Joshua Joy, Jenil Kanani,
+            Victor E Ezeugwu, Puneeta Tandon
+            </p>
+            <p class="pub-venue"><em>PLOS Digital Health</em>, 2025</p>
+        </li>
 
-            <li>
-            <div class="paper-title">
-                Markerless Motion Capture Parameters Associated with Fall Risk or Frailty:
-                A Scoping Review
-            </div>
-            <div class="paper-meta">
-                Osness E, Isley S, <strong>Bertrand JK</strong>, Dennett L, Bates J,
-                Van Decker N, et al.
-            </div>
-            <div class="paper-meta">
-                <em>Sensors</em>, 2025
-            </div>
-            </li>
+        <li class="pub-item">
+            <p class="pub-title">
+            Markerless Motion Capture Parameters Associated with Fall Risk or Frailty: A Scoping Review
+            </p>
+            <p class="pub-authors">
+            Emma Osness, Serena Isley, <span class="pub-me">Jennifer K Bertrand</span>, Liz Dennett, Jack Bates,
+            Nathan Van Decker, Alexis Stanhope, Ayushi Omkar, Naomi Dolgoy, Victor E Ezeugwu, Puneeta Tandon
+            </p>
+            <p class="pub-venue"><em>Sensors</em>, 2025</p>
+        </li>
 
-            <li>
-            <div class="paper-title">
-                Continuous measures of decision-difficulty captured remotely:
-                Mouse-tracking sensitivity extends to tablets and smartphones
-            </div>
-            <div class="paper-meta">
-                Zuk AAO, <strong>Bertrand JK</strong>, Chapman CS
-            </div>
-            <div class="paper-meta">
-                <em>Computers in Human Behavior</em>, 2025
-            </div>
-            </li>
+        <li class="pub-item">
+            <p class="pub-title">
+            Continuous measures of decision-difficulty captured remotely: Mouse-tracking sensitivity extends to tablets and smartphones
+            </p>
+            <p class="pub-authors">
+            Alexandra Ouellette Zuk, <span class="pub-me">Jennifer K Bertrand</span>, Craig S Chapman
+            </p>
+            <p class="pub-venue"><em>Computers in Human Behavior</em>, 2025</p>
+        </li>
         </ul>
 
-        <!-- 2023 -->
-        <h3 class="muted">2023</h3>
-        <ul>
-            <li>
-            <div class="paper-title">
-                You read my mind: Generating and minimizing intention uncertainty under
-                different social contexts in a two-player online game
-            </div>
-            <div class="paper-meta">
-                Ma HL, <strong>Bertrand JK</strong>, Chapman CS, Hayward DA
-            </div>
-            <div class="paper-meta">
-                <em>Journal of Experimental Psychology: Human Perception and Performance</em>, 2023
-            </div>
-            </li>
+        <div class="pub-year">2023</div>
+        <ul class="pub-list">
+        <li class="pub-item">
+            <p class="pub-title">
+            You read my mind: Generating and minimizing intention uncertainty under different social contexts in a two-player online game
+            </p>
+            <p class="pub-authors">
+            Helen Ma, <span class="pub-me">Jennifer K Bertrand</span>, Craig S Chapman, Dana A Hayward
+            </p>
+            <p class="pub-venue">
+            <em>Journal of Experimental Psychology: Human Perception and Performance</em>, 2023
+            </p>
+        </li>
 
-            <li>
-            <div class="paper-title">
-                Dynamics of eye–hand coordination are flexibly preserved in eye–cursor
-                coordination during an online digital object interaction task
-            </div>
-            <div class="paper-meta">
-                <strong>Bertrand JK</strong>, Chapman CS
-            </div>
-            <div class="paper-meta">
-                <em>CHI Conference on Human Factors in Computing Systems</em>, 2023
-            </div>
-            </li>
+        <li class="pub-item">
+            <p class="pub-title">
+            Dynamics of eye–hand coordination are flexibly preserved in eye–cursor coordination during an online, digital, object interaction task
+            </p>
+            <p class="pub-authors">
+            <span class="pub-me">Jennifer K Bertrand</span>, Craig S Chapman
+            </p>
+            <p class="pub-venue"><em>CHI Conference on Human Factors in Computing Systems</em>, 2023</p>
+        </li>
 
-            <li>
-            <div class="paper-title">
-                The Utility of Webcam Eye-Tracking: Lessons Learned and Practical
-                Applications in Decision-Making and Digital Human–Computer Interactions
-            </div>
-            <div class="paper-meta">
-                <strong>Bertrand JK</strong>
-            </div>
-            <div class="paper-meta">
-                2023
-            </div>
-            </li>
+        <li class="pub-item">
+            <p class="pub-title">
+            The Utility of Webcam Eye-Tracking: Lessons Learned and Practical Applications in Decision-Making and Digital Human–Computer Interactions
+            </p>
+            <p class="pub-authors">
+            <span class="pub-me">Jennifer K Bertrand</span>
+            </p>
+            <p class="pub-venue">2023</p>
+        </li>
 
-            <li>
-            <div class="paper-title">
-                Continuous Measures of Decision-Difficulty Captured Remotely II:
-                Webcam Eye-Tracking Reveals Early Decision Processing
-            </div>
-            <div class="paper-meta">
-                <strong>Bertrand JK</strong>, Zuk AAO, Chapman CS
-            </div>
-            <div class="paper-meta">
-                <em>bioRxiv</em>, 2023
-            </div>
-            </li>
+        <li class="pub-item">
+            <p class="pub-title">
+            Continuous Measures of Decision-Difficulty Captured Remotely II: Webcam eye-tracking reveals early decision processing
+            </p>
+            <p class="pub-authors">
+            <span class="pub-me">Jennifer K Bertrand</span>, Alexandra Ouellette Zuk, Craig S Chapman
+            </p>
+            <p class="pub-venue"><em>bioRxiv</em>, 2023</p>
+        </li>
         </ul>
 
-        <!-- 2021 -->
-        <h3 class="muted">2021</h3>
-        <ul>
-            <li>
-            <div class="paper-title">
-                Reaching for known unknowns: Rapid reach decisions accurately reflect
-                the future state of dynamic probabilistic information
-            </div>
-            <div class="paper-meta">
-                Wispinski NJ, Stone SA, <strong>Bertrand JK</strong>, Zuk AAO,
-                Lavoie EB, Gallivan JP, et al.
-            </div>
-            <div class="paper-meta">
-                <em>Cortex</em>, 2021
-            </div>
-            </li>
+        <div class="pub-year">2021</div>
+        <ul class="pub-list">
+        <li class="pub-item">
+            <p class="pub-title">
+            Reaching for known unknowns: Rapid reach decisions accurately reflect the future state of dynamic probabilistic information
+            </p>
+            <p class="pub-authors">
+            Nathan Wispinski, Scott A Stone, <span class="pub-me">Jennifer K Bertrand</span>,
+            Alexandra Ouellette Zuk, Ewen Lavoie, Jason P Gallivan, Craig S Chapman
+            </p>
+            <p class="pub-venue"><em>Cortex</em>, 2021</p>
+        </li>
         </ul>
 
-        <!-- 2019 -->
-        <h3 class="muted">2019</h3>
-        <ul>
-            <li>
-            <div class="paper-title">
-                Clarifying frequency-dependent brightness enhancement: delta- and
-                theta-band flicker, not alpha-band flicker, consistently seen as brightest
-            </div>
-            <div class="paper-meta">
-                <strong>Bertrand JK</strong>, Ouellette Zuk AA, Chapman CS
-            </div>
-            <div class="paper-meta">
-                <em>Experimental Brain Research</em>, 2019
-            </div>
-            </li>
+        <div class="pub-year">2019</div>
+        <ul class="pub-list">
+        <li class="pub-item">
+            <p class="pub-title">
+            Clarifying frequency-dependent brightness enhancement: delta- and theta-band flicker, not alpha-band flicker, consistently seen as brightest
+            </p>
+            <p class="pub-authors">
+            <span class="pub-me">Jennifer K Bertrand</span>, Alexandra Ouellette Zuk, Craig S Chapman
+            </p>
+            <p class="pub-venue"><em>Experimental Brain Research</em>, 2019</p>
+        </li>
         </ul>
 
-        <!-- 2018 -->
-        <h3 class="muted">2018</h3>
-        <ul>
-            <li>
-            <div class="paper-title">
-                Entrainment of theta, not alpha, oscillations is predictive of the
-                brightness enhancement of a flickering stimulus
-            </div>
-            <div class="paper-meta">
-                <strong>Bertrand JK</strong>, Wispinski NJ, Mathewson KE, Chapman CS
-            </div>
-            <div class="paper-meta">
-                <em>Scientific Reports</em>, 2018
-            </div>
-            </li>
+        <div class="pub-year">2018</div>
+        <ul class="pub-list">
+        <li class="pub-item">
+            <p class="pub-title">
+            Entrainment of theta, not alpha, oscillations is predictive of the brightness enhancement of a flickering stimulus
+            </p>
+            <p class="pub-authors">
+            <span class="pub-me">Jennifer K Bertrand</span>, Nathan Wispinski, Kyle E Mathewson, Craig S Chapman
+            </p>
+            <p class="pub-venue"><em>Scientific Reports</em>, 2018</p>
+        </li>
 
-            <li>
-            <div class="paper-title">
-                Examining the “Species” of Situated Cognition in Humans
-            </div>
-            <div class="paper-meta">
-                Lavoie EB, <strong>Bertrand JK</strong>, Sawalha J, Stone SA,
-                Wispinski NJ, et al.
-            </div>
-            <div class="paper-meta">
-                <em>Comparative Cognition &amp; Behavior Reviews</em>, 2018
-            </div>
-            </li>
+        <li class="pub-item">
+            <p class="pub-title">
+            Examining the “Species” of Situated Cognition in Humans
+            </p>
+            <p class="pub-authors">
+            Ewen Lavoie, <span class="pub-me">Jennifer K Bertrand</span>, Jeffrey Sawalha,
+            Scott A Stone, Nathan Wispinski, Craig S Chapman
+            </p>
+            <p class="pub-venue"><em>Comparative Cognition &amp; Behavior Reviews</em>, 2018</p>
+        </li>
         </ul>
 
-        <!-- 2017 -->
-        <h3 class="muted">2017</h3>
-        <ul>
-            <li>
-            <div class="paper-title">
-                EEG Oscillations as a Neural Correlate for Brightness Enhancement
-                of Flickering Stimuli
-            </div>
-            <div class="paper-meta">
-                <strong>Bertrand JK</strong>
-            </div>
-            <div class="paper-meta">
-                University of Alberta, 2017
-            </div>
-            </li>
+        <div class="pub-year">2017</div>
+        <ul class="pub-list">
+        <li class="pub-item">
+            <p class="pub-title">
+            EEG Oscillations as a Neural Correlate for Brightness Enhancement of Flickering Stimuli
+            </p>
+            <p class="pub-authors">
+            <span class="pub-me">Jennifer K Bertrand</span>
+            </p>
+            <p class="pub-venue">University of Alberta, 2017</p>
+        </li>
         </ul>
 
         <div class="hr"></div>
         <p class="muted" style="margin:0;">
-            PDFs and supplementary materials will be added shortly.
+        PDFs and supplementary materials will be added shortly.
         </p>
-      </section>
+
+        
 
     
 
