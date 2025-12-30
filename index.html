@@ -128,7 +128,16 @@
       font-size: 14px;
     }
 
-    
+    .about-text {
+    max-width: 70ch;
+    margin: 0;
+    }
+
+    .about-highlight {
+    font-weight: 700;
+    color: var(--link); /* same accent as paper titles */
+    }
+
 
     section {
       background: var(--card);
@@ -137,6 +146,10 @@
       padding: 18px 18px;
       box-shadow: var(--shadow);
       margin-bottom: 48px;
+    }
+
+    #about {
+        background: #fbfdfd;
     }
 
     h2 {
@@ -342,14 +355,20 @@
       </nav>
     </header>
 
-    <section id="about">
-    <p style="max-width: 70ch; margin: 0 0 32px;">
-        I am a <strong>postdoctoral researcher</strong> studying how <strong>human perception, experience,
-        and intention</strong> are expressed through digital interaction and movement. My work combines
-        <strong>human–computer interaction</strong>, <strong>multimodal sensing</strong>, and
-        <strong>digital health technologies</strong> in scalable, real-world applications.
+    <section id="about" aria-label="About">
+    <h2>About</h2>
+
+    <p class="about-text">
+        I am a <span class="about-highlight">postdoctoral researcher</span> studying how
+        <span class="about-highlight">human perception, experience, and intention</span>
+        are expressed through digital interaction and movement. My work combines
+        <span class="about-highlight">human–computer interaction</span>,
+        <span class="about-highlight">multimodal sensing</span>, and
+        <span class="about-highlight">digital health technologies</span>
+        for scalable, real-world applications.
     </p>
     </section>
+
 
       <section id="papers" aria-label="Papers">
         
