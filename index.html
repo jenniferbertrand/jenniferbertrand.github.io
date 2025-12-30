@@ -196,16 +196,24 @@
     border-bottom: 1px solid var(--border);
     }
 
+
     .pub-thumb {
-        flex: 0 0 120px; /* fixed thumbnail width */
+    flex: 0 0 auto;
+    height: 160px;              /* adjust: 120–160px sweet spot */
+    aspect-ratio: 16 / 10;      /* landscape bias */
+    overflow: hidden;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     }
 
     .pub-thumb img {
-        width: 120px;
-        height: auto;
-        border-radius: 10px;
-        border: 1px solid var(--border);
-        background: #fff
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
     }
 
     .pub-content {
