@@ -190,8 +190,27 @@
     }
 
     .pub-item {
+    display: flex;
+    gap: 16px;
     padding: 16px 0;
     border-bottom: 1px solid var(--border);
+    }
+
+    .pub-thumb {
+        flex: 0 0 120 px; /* fixed thumbnail width */
+    }
+
+    .pub-thumb img {
+        width: 120px;
+        height: auto;
+        border-radius: 10px;
+        border: 1px solid var(--border);
+        background: #fff
+    }
+
+    .pub-content {
+        flex: 1;
+        min-width: 0; /*prevents overflow issues */
     }
 
     .pub-item:last-child {
@@ -461,6 +480,59 @@
             <em>Journal of Experimental Psychology: Human Perception and Performance</em>, 2023
             </p>
         </li>
+
+        <li class="pub-item">
+            <!-- Thumbnail -->
+            <div class="pub-thumb">
+                <img src="ForWebsite.png" alt="Figure from CHI 2023 eye–hand coordination paper">
+            </div>
+
+            <!-- Paper content -->
+            <div class="pub-content">
+
+                <p class="pub-title">
+                Dynamics of eye–hand coordination are flexibly preserved in eye–cursor coordination during an online, digital, object interaction task
+                </p>
+
+                <p class="pub-authors">
+                <span class="pub-me">Jennifer K Bertrand</span>, Craig S Chapman
+                </p>
+
+                <p class="pub-venue">
+                <em>CHI Conference on Human Factors in Computing Systems</em>, 2023
+                </p>
+
+                <div class="pub-actions">
+                <a class="pub-btn"
+                    href="https://dl.acm.org/doi/full/10.1145/3544548.3580866"
+                    target="_blank" rel="noopener">
+                    <!-- link icon -->
+                    <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                    <path d="M10 13a5 5 0 0 0 7.1 0l2.1-2.1a5 5 0 0 0-7.1-7.1L11 4.9"
+                            stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+                    <path d="M14 11a5 5 0 0 0-7.1 0L4.8 13.1a5 5 0 1 0 7.1 7.1L13 19.1"
+                            stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+                    </svg>
+                    DOI
+                </a>
+
+                <a class="pub-btn"
+                    href="pdfs/Bertrand and Chapman - 2023 - Dynamics of eye-hand coordination are flexibly pre.pdf"
+                    target="_blank" rel="noopener">
+                    <!-- pdf icon -->
+                    <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                    <path d="M7 3h7l3 3v15H7V3Z"
+                            stroke="currentColor" stroke-width="1.6"/>
+                    <path d="M14 3v4h4"
+                            stroke="currentColor" stroke-width="1.6"/>
+                    </svg>
+                    PDF
+                </a>
+                </div>
+
+            </div>
+        </li>
+
 
         <li class="pub-item">
             <p class="pub-title">
