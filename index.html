@@ -70,24 +70,25 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 38px;
-    height: 38px;
-    border: 1px solid var(--border);
+    width: 40px;
+    height: 40px;
     border-radius: 10px;
-    color: var(--muted);
-    background: #fff;
+    background: var(--link);     /* blue background */
+    color: #ffffff;              /* white icon */
+    border: none;
     }
 
     .header-icons a:hover {
-    color: var(--link);
-    background: #f0fdfa;
+    background: var(--link-hover); /* darker blue on hover */
     text-decoration: none;
     }
 
     .header-icons svg {
     width: 18px;
     height: 18px;
+    stroke: currentColor; /* ensures SVG uses the white color */
     }
+
 
     .location {
     font-size: 14px;
@@ -128,15 +129,23 @@
       font-size: 14px;
     }
 
-    .about-text {
-    max-width: 70ch;
-    margin: 0;
-    }
+
 
     .about-highlight {
     font-weight: 700;
     color: var(--link); /* same accent as paper titles */
     }
+
+    #about {
+    background: #fbfdfd;
+    padding: 22px 22px;   /* slightly roomier than other cards */
+    }
+
+    #about .about-text {
+    margin-top: 6px;      /* creates breathing room under "About" */
+    line-height: 1.7;     /* softer paragraph rhythm */
+    }
+
 
 
     section {
@@ -148,12 +157,9 @@
       margin-bottom: 48px;
     }
 
-    #about {
-        background: #fbfdfd;
-    }
 
     h2 {
-      margin: 2px 0 12px;
+      margin: 0 0 12px;
       font-size: 16px;
       letter-spacing: -0.01em;
       text-transform: none;
