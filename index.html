@@ -44,6 +44,55 @@
       margin-bottom: 28px;
     }
 
+    .header-top {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    }
+
+    .header-left {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    }
+
+    .headshot {
+    width: 84px;
+    height: 84px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid var(--border);
+    }
+
+    .header-icons {
+    display: flex;
+    gap: 14px;
+    align-items: center;
+    }
+
+    .header-icons a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    color: var(--link);
+    }
+
+    .header-icons a:hover {
+    background: #f0fdfa;
+    text-decoration: none;
+    }
+
+    .location {
+    font-size: 14px;
+    color: var(--muted);
+    }
+
     .name {
       font-size: clamp(30px, 3.6vw, 44px);
       font-weight: 750;
@@ -78,24 +127,7 @@
       font-size: 14px;
     }
 
-    .grid {
-      display: grid;
-      grid-template-columns: 1.35fr 0.65fr;
-      gap: 18px;
-      align-items: start;
-      margin-top: 24px;
-    }
-
-    .sidebar {
-      display: grid;
-      gap: 18px;
-      align-content: start;
-    }
-
-
-    @media (max-width: 860px) {
-      .grid { grid-template-columns: 1fr; }
-    }
+    
 
     section {
       background: var(--card);
@@ -246,14 +278,38 @@
 <body>
   <div class="wrap">
 
+
     <header>
-      <h1 class="name">Jennifer K Bertrand</h1>
+    <div class="header-top">
+        <div class="header-left">
+        <img src="JB_headshot_2026.png" alt="Jennifer K Bertrand" class="headshot" />
 
-    <p class="tagline">
-        Postdoctoral Researcher, CNRS &middot; University of Lille<br>
-        Human–computer interaction, digital health, and movement measurement
-    </p>
+        <div>
+            <h1 class="name">Jennifer K Bertrand</h1>
+            <p class="tagline">
+            Postdoctoral Researcher, CNRS · University of Lille
+            </p>
+            <p class="location">
+            📍 Lille, France · Canadian researcher
+            </p>
+        </div>
+        </div>
 
+        <div class="header-icons">
+        <a href="https://scholar.google.ca/citations?user=ZDtAV8gAAAAJ" target="_blank" title="Google Scholar">
+            🎓
+        </a>
+        <a href="https://www.linkedin.com/in/jenniferkbertrand/" target="_blank" title="LinkedIn">
+            💼
+        </a>
+        <a href="mailto:jenniferkbertrand@gmail.com" title="Email">
+            ✉️
+        </a>
+        <a href="cv.pdf" target="_blank" title="CV (PDF)">
+            📄
+        </a>
+        </div>
+    </div>
 
       <nav>
         <a class="pill" href="#papers">Papers</a>
@@ -263,8 +319,7 @@
       </nav>
     </header>
 
-    <div class="grid">
-      <!-- Left column -->
+
       <section id="papers" aria-label="Papers">
         
         <h2>Papers</h2>
@@ -437,15 +492,20 @@
     
 
     <!-- Right column -->
-    <div class="sidebar">
+
     <section id="research" aria-label="Research Areas">
         <h2>Research Areas</h2>
         <ul>
-        <li>Digital measurement of human movement, perception, and experience</li>
+        <!-- <li>Digital measurement of human movement, perception, and experience</li>
         <li>Human–computer interaction and multimodal interaction techniques</li>
         <li>Eye tracking, cursor/mouse tracking, and markerless motion capture</li>
         <li>Remote and scalable assessment of cognition and physical function</li>
-        <li>User experience and interaction design for health and digital systems</li>
+        <li>User experience and interaction design for health and digital systems</li> -->
+        <li><strong>Digital measurement of human behavior:</strong> Quantifying movement, perception, and intention through interaction.</li> 
+        <li><strong>Human–computer interaction:</strong> Studying how visual, haptic, and interactive feedback shape user behavior and experience.</li>
+        <li><strong>Multimodal sensing:</strong> Eye tracking, cursor and mouse tracking, and markerless motion capture.</li>
+        <li><strong>Remote and scalable assessment:</strong> Designing digital tools for at-home and real-world measurement of cognition and physical function.</li>
+        <li><strong>Digital health & UX:</strong> Translating interaction data into clinically and user-meaningful insights.</li>
         </ul>
     </section>
 
@@ -459,18 +519,17 @@
         </p>
 
         <div class="hr"></div>
-
-        <div id="contact" aria-label="Contact">
+    </section>
+    <section id="contact" aria-label="Contact">
         <h2>Contact</h2>
         <ul>
             <li>jenniferkbertrand <span class="muted">[at]</span> gmail <span class="muted">[dot]</span> com</li>
             <li><a href="https://scholar.google.ca/citations?user=ZDtAV8gAAAAJ" target="_blank" rel="noopener">Google Scholar</a></li>
             <li><a href="https://www.linkedin.com/in/jenniferkbertrand/" target="_blank" rel="noopener">LinkedIn</a></li>
         </ul>
-        </div>
     </section>
-    </div>
-    </div>
+
+  
 
 
     <footer>
