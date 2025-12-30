@@ -59,33 +59,34 @@
     }
 
     .headshot {
-    width: 84px;
-    height: 84px;
+    width: 110px;
+    height: 110px;
     border-radius: 50%;
     object-fit: cover;
     border: 1px solid var(--border);
-    }
-
-    .header-icons {
-    display: flex;
-    gap: 14px;
-    align-items: center;
     }
 
     .header-icons a {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 36px;
-    height: 36px;
+    width: 38px;
+    height: 38px;
     border: 1px solid var(--border);
     border-radius: 10px;
-    color: var(--link);
+    color: var(--muted);
+    background: #fff;
     }
 
     .header-icons a:hover {
+    color: var(--link);
     background: #f0fdfa;
     text-decoration: none;
+    }
+
+    .header-icons svg {
+    width: 18px;
+    height: 18px;
     }
 
     .location {
@@ -109,8 +110,8 @@
     nav {
       display: flex;
       flex-wrap: wrap;
-      gap: 12px;
-      margin-top: 6px;
+      gap: 18px;
+      margin-top: 32px;
     }
 
     .pill {
@@ -135,6 +136,7 @@
       border-radius: var(--radius);
       padding: 18px 18px;
       box-shadow: var(--shadow);
+      margin-bottom: 48px;
     }
 
     h2 {
@@ -285,30 +287,51 @@
         <img src="JB_headshot_2026.png" alt="Jennifer K Bertrand" class="headshot" />
 
         <div>
-            <h1 class="name">Jennifer K Bertrand</h1>
+            <h1 class="name">Jennifer K Bertrand, PhD</h1>
             <p class="tagline">
             Postdoctoral Researcher, CNRS · University of Lille
             </p>
             <p class="location">
-            📍 Lille, France · Canadian researcher
+            📍 Currently based in Lille, France · Canadian researcher
             </p>
         </div>
         </div>
 
         <div class="header-icons">
-        <a href="https://scholar.google.ca/citations?user=ZDtAV8gAAAAJ" target="_blank" title="Google Scholar">
-            🎓
-        </a>
-        <a href="https://www.linkedin.com/in/jenniferkbertrand/" target="_blank" title="LinkedIn">
-            💼
-        </a>
-        <a href="mailto:jenniferkbertrand@gmail.com" title="Email">
-            ✉️
-        </a>
-        <a href="cv.pdf" target="_blank" title="CV (PDF)">
-            📄
-        </a>
+            <!-- Google Scholar -->
+            <a href="https://scholar.google.ca/citations?user=ZDtAV8gAAAAJ" target="_blank" title="Google Scholar">
+                <svg viewBox="0 0 24 24" fill="none">
+                <path d="M12 3L2 9l10 6 10-6-10-6Z" stroke="currentColor" stroke-width="1.6"/>
+                <path d="M6 12v5c0 1.5 12 1.5 12 0v-5" stroke="currentColor" stroke-width="1.6"/>
+                </svg>
+            </a>
+
+            <!-- LinkedIn -->
+            <a href="https://www.linkedin.com/in/jenniferkbertrand/" target="_blank" title="LinkedIn">
+                <svg viewBox="0 0 24 24" fill="none">
+                <rect x="3" y="3" width="18" height="18" rx="2" stroke="currentColor" stroke-width="1.6"/>
+                <path d="M7 10v7M7 7h.01M11 17v-4c0-1.5 2-1.5 2 0v4M13 13c0-1.5 2-1.5 2 0v4" stroke="currentColor" stroke-width="1.6"/>
+                </svg>
+            </a>
+
+            <!-- Email -->
+            <a href="mailto:jenniferkbertrand@gmail.com" title="Email">
+                <svg viewBox="0 0 24 24" fill="none">
+                <rect x="3" y="5" width="18" height="14" rx="2" stroke="currentColor" stroke-width="1.6"/>
+                <path d="M3 7l9 6 9-6" stroke="currentColor" stroke-width="1.6"/>
+                </svg>
+            </a>
+
+            <!-- CV -->
+            <a href="cv.pdf" target="_blank" title="CV (PDF)">
+                <svg viewBox="0 0 24 24" fill="none">
+                <path d="M7 3h7l3 3v15H7V3Z" stroke="currentColor" stroke-width="1.6"/>
+                <path d="M14 3v4h4" stroke="currentColor" stroke-width="1.6"/>
+                <path d="M9 14h6M9 17h6" stroke="currentColor" stroke-width="1.6"/>
+                </svg>
+            </a>
         </div>
+
     </div>
 
       <nav>
@@ -319,6 +342,14 @@
       </nav>
     </header>
 
+    <section id="about">
+    <p style="max-width: 70ch; margin: 0 0 32px;">
+        I am a <strong>postdoctoral researcher</strong> studying how <strong>human perception, experience,
+        and intention</strong> are expressed through digital interaction and movement. My work combines
+        <strong>human–computer interaction</strong>, <strong>multimodal sensing</strong>, and
+        <strong>digital health technologies</strong> in scalable, real-world applications.
+    </p>
+    </section>
 
       <section id="papers" aria-label="Papers">
         
