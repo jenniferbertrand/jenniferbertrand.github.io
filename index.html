@@ -1260,6 +1260,89 @@
     document.getElementById("y").textContent = new Date().getFullYear();
   </script>
 
+    <script>
+        (function () {
+        function slugify(s) {
+            return (s || "")
+            .toLowerCase()
+            .replace(/\s+/g, "-")
+            .replace(/[^a-z0-9\-._]/g, "-")
+            .replace(/-+/g, "-")
+            .replace(/^-|-$/g, "")
+            .slice(0, 160);
+        }
+
+        function getPaperTitle(a) {
+            const item = a.closest(".pub-item");
+            if (!item) return "";
+            const t = item.querySelector(".pub-title");
+            return t ? t.textContent.replace(/\s+/g, " ").trim() : "";
+        }
+
+        // Add GoatCounter click-event attributes to links.
+        // GoatCounter will automatically bind click tracking for elements with data-goatcounter-click.
+        // (Doc: https://www.goatcounter.com/help/events)
+        document.querySelectorAll('a[href]').forEach((a) => {
+            // Don't overwrite if you already manually set it somewhere.
+            if (a.hasAttribute("data-goatcounter-click")) return;
+
+            const rawHref = a.getAttribute("href");
+            if (!rawHref) return;
+
+            // Ignore in-page anchors and non-http-ish links
+            const lower = rawHref.toLowerCase();
+            if (
+            lower.startsWith("#") ||
+            lower.startsWith("mailto:") ||
+            lower.startsWith("tel:") ||
+            lower.startsWith("javascript:")
+            ) return;
+
+            let url;
+            try {
+            url = new URL(rawHref, window.location.href);
+            } catch {
+            return;
+            }
+
+            const isPdf =
+            lower.endsWith(".pdf") ||
+            url.pathname.toLowerCase().endsWith(".pdf") ||
+            url.pathname.toLowerCase().includes("/pdfs/");
+
+            const isOutbound = url.origin !== window.location.origin;
+
+            // Helper: make a good label
+            const paperTitle = getPaperTitle(a);
+
+            if (isPdf) {
+            const filename = (url.pathname.split("/").pop() || "pdf").replace(/\.pdf$/i, "");
+            const eventName = "pdf-" + slugify(filename);
+
+            a.setAttribute("data-goatcounter-click", eventName);
+            a.setAttribute(
+                "data-goatcounter-title",
+                paperTitle ? `PDF: ${paperTitle}` : `PDF: ${filename}`
+            );
+            return;
+            }
+
+            // Track outbound links (DOI links included)
+            if (isOutbound) {
+            const host = url.hostname.replace(/^www\./i, "");
+            const pathish = (url.pathname + url.search).slice(0, 120);
+            const eventName = "out-" + slugify(host + "-" + pathish);
+
+            a.setAttribute("data-goatcounter-click", eventName);
+            a.setAttribute(
+                "data-goatcounter-title",
+                paperTitle ? `Outbound: ${paperTitle}` : `Outbound: ${host}`
+            );
+            }
+        });
+        })();
+    </script>
+
   <script data-goatcounter="https://jennifer-bertrand.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
