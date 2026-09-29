@@ -47,7 +47,7 @@
     .header-top {
     display: flex;
     gap: 20px;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
     flex-wrap: wrap;
     }
@@ -76,6 +76,44 @@
     background: var(--link);     /* blue background */
     color: #ffffff;              /* white icon */
     border: none;
+    }
+
+    .header-actions {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 8px;
+    }
+
+    .header-icon-row {
+    display: flex;
+    gap: 8px;
+    }
+
+    .header-doc-row {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    }
+
+    .header-doc-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 96px;
+    min-height: 34px;
+    padding: 5px 12px;
+    border-radius: 10px;
+    background: var(--link);
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+    }
+
+    .header-doc-link:hover {
+    background: var(--link-hover);
+    color: #ffffff;
+    text-decoration: none;
     }
 
     .header-icons a:hover {
@@ -408,7 +446,8 @@
         </div>
         </div>
 
-        <div class="header-icons">
+        <div class="header-actions">
+        <div class="header-icon-row header-icons">
             <!-- Google Scholar -->
             <a href="https://scholar.google.ca/citations?user=ZDtAV8gAAAAJ" target="_blank" title="Google Scholar">
                 <svg viewBox="0 0 24 24" fill="none">
@@ -432,15 +471,15 @@
                 <path d="M3 7l9 6 9-6" stroke="currentColor" stroke-width="1.6"/>
                 </svg>
             </a>
+        </div>
 
-            <!-- CV -->
-            <a href="cv.pdf" target="_blank" title="CV (PDF)">
-                <svg viewBox="0 0 24 24" fill="none">
-                <path d="M7 3h7l3 3v15H7V3Z" stroke="currentColor" stroke-width="1.6"/>
-                <path d="M14 3v4h4" stroke="currentColor" stroke-width="1.6"/>
-                <path d="M9 14h6M9 17h6" stroke="currentColor" stroke-width="1.6"/>
-                </svg>
-            </a>
+        <div class="header-doc-row">
+            <!-- Replace # with the CV PDF path when the updated CV is ready. -->
+            <a class="header-doc-link" href="#" title="CV (PDF)">CV</a>
+
+            <!-- Add your file as pdfs/resume.pdf when the Resume is ready. -->
+            <a class="header-doc-link" href="pdfs/resume.pdf" title="Resume (PDF)">Resume</a>
+        </div>
         </div>
 
     </div>
