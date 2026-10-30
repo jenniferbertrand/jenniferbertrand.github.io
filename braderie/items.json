@@ -1,0 +1,1150 @@
+[
+  {
+    "id": "lagrange-pizza-oven",
+    "name": "Lagrange Electric Pizza Oven",
+    "price": 40,
+    "description": "Works great! Heats up to 430°C. Includes pizza stone, peel and original box.",
+    "category": "Kitchenware",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/lagrange-pizza-oven/01-main.jpg",
+        "alt": "Lagrange pizza oven with the door closed, viewed from the left",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/lagrange-pizza-oven/02-front.jpg",
+        "alt": "Pizza oven viewed from the front and right side",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/lagrange-pizza-oven/03-interior.jpg",
+        "alt": "Open oven showing the pizza stone inside",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/lagrange-pizza-oven/04-box.jpg",
+        "alt": "Original Lagrange pizza oven box",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/lagrange-pizza-oven/05-peel.jpg",
+        "alt": "Included metal pizza peel resting on the original box",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "ikea-sandsberg-bar-table",
+    "name": "IKEA SANDSBERG Bar Table",
+    "price": 10,
+    "description": "In great condition! Dark woodgrain top with black metal legs and a footrest. 67 × 67 cm, 92 cm high.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/ikea-sandsberg-bar-table/01-main.jpg",
+        "alt": "IKEA SANDSBERG bar table with dark top, black legs and footrest",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-sandsberg-bar-table/02-top.jpg",
+        "alt": "Close-up of the table’s dark woodgrain top",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "barstools-pair",
+    "name": "Barstools — Pair",
+    "price": 10,
+    "description": "Two almost matching barstools with black cushioned seats and metal frames. Not identical: the cushions and metal finish differ slightly. €10 for the pair.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/barstools-pair/01-main.jpg",
+        "alt": "Both barstools side by side, showing their slightly different cushions",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/barstools-pair/02-seats.jpg",
+        "alt": "Closer view of the black cushioned seats and metal frames",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/barstools-pair/03-at-counter.jpg",
+        "alt": "The pair of barstools beside the kitchen counter",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "ikea-vickleby-floor-lamp",
+    "name": "IKEA VICKLEBY Floor Lamp",
+    "price": 0,
+    "description": "White paper floor lamp with a soft, cosy glow and a foot switch. Free to a new home!",
+    "category": "Lighting",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/ikea-vickleby-floor-lamp/01-lit.jpg",
+        "alt": "White paper floor lamp switched on, with a warm glow",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-vickleby-floor-lamp/02-unlit.jpg",
+        "alt": "Paper floor lamp switched off, showing the white shade and foot switch",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "ikea-frost-drying-rack",
+    "name": "IKEA FROST Clothes Drying Rack",
+    "price": 5,
+    "description": "White folding clothes drying rack. In great condition, no issues.",
+    "category": "Household",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/ikea-frost-drying-rack/01-main.jpg",
+        "alt": "White IKEA FROST drying rack with its wings extended",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-frost-drying-rack/02-raised-wings.jpg",
+        "alt": "Drying rack with its wings raised",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "mandine-stand-mixer",
+    "name": "Mandine MSM1300B-24 Stand Mixer",
+    "price": 10,
+    "description": "1300 W stand mixer with a 5 L stainless steel bowl and 12 speeds. Includes whisk, flat beater, dough hook, splash guard and original box.",
+    "category": "Kitchenware",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/mandine-stand-mixer/01-main.jpg",
+        "alt": "Mandine stand mixer with bowl, whisk, beater, dough hook and splash guard",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/mandine-stand-mixer/02-mixer.jpg",
+        "alt": "Closer view of the mixer with its head raised",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/mandine-stand-mixer/03-attachments.jpg",
+        "alt": "Close-up of the mixing attachments and splash guard",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/mandine-stand-mixer/04-box.jpg",
+        "alt": "Mandine stand mixer beside its original box",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "hotel-olinda-print",
+    "name": "Framed “Hotel Olinda” Art Print",
+    "price": 0,
+    "description": "“Hotel Olinda” by Ilana Richardson, in a black frame. 63 × 78 cm. Free to a new home!",
+    "category": "Decor",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/hotel-olinda-print/01-main.jpg",
+        "alt": "Framed Hotel Olinda print showing blue shutters and tropical plants",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "handmade-wood-table-1",
+    "name": "Handmade Wood Table — 1 of 2",
+    "price": 5,
+    "description": "Handmade table with a lovely wood top and black painted legs. 140 × 60 cm tabletop, 75 cm high. Some small scratches and a little wobbly, but still a nice piece. One of two identical tables; photos show the style and example wear. €5 each.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/handmade-wood-tables/01-main.jpg",
+        "alt": "Handmade table with a light wood top and black painted legs",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/handmade-wood-tables/02-angle.jpg",
+        "alt": "Another angle of the handmade wood table",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/handmade-wood-tables/03-scratches.jpg",
+        "alt": "Close-up showing scratches on the wooden tabletop",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "handmade-wood-table-2",
+    "name": "Handmade Wood Table — 2 of 2",
+    "price": 5,
+    "description": "Handmade table with a lovely wood top and black painted legs. 140 × 60 cm tabletop, 75 cm high. Some small scratches and a little wobbly, but still a nice piece. One of two identical tables; photos show the style and example wear. €5 each.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/handmade-wood-tables/01-main.jpg",
+        "alt": "Handmade table with a light wood top and black painted legs",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/handmade-wood-tables/02-angle.jpg",
+        "alt": "Another angle of the handmade wood table",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/handmade-wood-tables/03-scratches.jpg",
+        "alt": "Close-up showing scratches on the wooden tabletop",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "black-metal-storage-shelf",
+    "name": "Black Metal Storage Shelving Unit",
+    "price": 5,
+    "description": "Four-level storage shelf with a black metal frame and particle-board shelves. A lightweight frame with a little give, but it has held plenty of our pantry supplies. 75 W × 30 D × 152 H cm. Contents not included. ;)",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/black-metal-storage-shelf/01-main.jpg",
+        "alt": "Four-level black metal storage shelf holding pantry supplies",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/black-metal-storage-shelf/02-angle.jpg",
+        "alt": "Full storage shelving unit viewed from the side",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/black-metal-storage-shelf/03-detail.jpg",
+        "alt": "Close-up of a particle-board shelf and black metal frame",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "glass-food-containers",
+    "name": "Glass Food Storage Containers — Set of 7",
+    "price": 0,
+    "description": "Seven glass food storage containers with plastic lids: 4 small, 2 medium and 1 large. Nest inside each other for easy storage. Free for the whole set!",
+    "category": "Kitchenware",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/glass-food-containers/01-main.jpg",
+        "alt": "Seven glass food containers with blue and green plastic lids",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/glass-food-containers/02-set.jpg",
+        "alt": "Full set of four small, two medium and one large container",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/glass-food-containers/03-nesting.jpg",
+        "alt": "Open glass containers nested together for storage",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "salad-spinner",
+    "name": "Salad Spinner",
+    "price": 0,
+    "description": "Salad spinner with basket, bowl and hand-crank lid. In great condition.",
+    "category": "Kitchenware",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/salad-spinner/01-main.jpg",
+        "alt": "Salad spinner with its basket and hand-crank lid",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "ikea-cheese-grater",
+    "name": "IKEA Cheese Grater",
+    "price": 0,
+    "description": "IKEA cheese grater with fine and coarse grating inserts, a collection container and lid. In great condition.",
+    "category": "Kitchenware",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/ikea-cheese-grater/01-main.jpg",
+        "alt": "IKEA cheese grater with two grating inserts, container and lid",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "ikea-kids-plates-bowls",
+    "name": "IKEA Kids’ Plates & Bowls — Set of 12",
+    "price": 0,
+    "description": "Six colourful plastic plates and six matching bowls from IKEA. Free for the whole set!",
+    "category": "Kitchenware",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/ikea-kids-plates-bowls/01-main.jpg",
+        "alt": "Stack of pastel-coloured IKEA kids’ plates and bowls",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "glass-bowls-set",
+    "name": "Glass Bowls — Set of 4",
+    "price": 0,
+    "description": "Four clear glass bowls. Free for the whole set!",
+    "category": "Kitchenware",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/glass-bowls-set/01-main.jpg",
+        "alt": "Four clear glass bowls arranged on the table",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/glass-bowls-set/02-detail.jpg",
+        "alt": "Side view of one glass bowl with the other three behind it",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "nutribullet",
+    "name": "Nutribullet Blender",
+    "price": 5,
+    "description": "Nutribullet blender with blending cup and blade attachment. In great condition.",
+    "category": "Kitchenware",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/nutribullet/01-main.jpg",
+        "alt": "Nutribullet blender with its cup attached",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/nutribullet/02-parts.jpg",
+        "alt": "Nutribullet base, blending cup and blade attachment",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "outdoor-cups",
+    "name": "Outdoor Cups — Set of 4",
+    "price": 0,
+    "description": "Four green-tinted, ribbed cups in a lightweight outdoor drinkware material. In great condition. Free for the set!",
+    "category": "Kitchenware",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/outdoor-cups/01-main.jpg",
+        "alt": "Four green-tinted ribbed drinking cups",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/outdoor-cups/02-detail.jpg",
+        "alt": "Close-up of one cup showing its ribbed sides",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "ikea-snap-lid-containers",
+    "name": "IKEA Food Storage Containers — Set of 3",
+    "price": 0,
+    "description": "Three plastic IKEA food storage containers with snap lids. In great condition. Free for the set!",
+    "category": "Kitchenware",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/ikea-snap-lid-containers/01-main.jpg",
+        "alt": "Three clear plastic IKEA containers with snap lids",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-snap-lid-containers/02-detail.jpg",
+        "alt": "Side view of one container showing its snap lid",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "ikea-speckled-dinnerware",
+    "name": "IKEA Speckled Ceramic Dinnerware — Set of 13",
+    "price": 0,
+    "description": "Pretty cream ceramic dinnerware from IKEA with a subtle speckled glaze. Includes 3 large dinner plates, 4 smaller plates, 4 deep plates / shallow bowls and 2 small bowls. Free for the whole set!",
+    "category": "Kitchenware",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/ikea-speckled-dinnerware/01-main.jpg",
+        "alt": "Cream speckled IKEA ceramic plates and bowls arranged together",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-speckled-dinnerware/02-speckles.jpg",
+        "alt": "Close-up of the subtle speckled glaze on a dinner plate",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-speckled-dinnerware/03-bowls.jpg",
+        "alt": "Small bowls and deep plates showing their shapes",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-speckled-dinnerware/04-deep-plate.jpg",
+        "alt": "Side view of a deep plate held above the dinnerware set",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "nalk-rey-hair-dryer",
+    "name": "Nalk & Rey Hair Dryer",
+    "price": 0,
+    "description": "Hair dryer with diffuser and concentrator nozzle. In great condition.",
+    "category": "Household",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/nalk-rey-hair-dryer/01-main.jpg",
+        "alt": "Nalk and Rey hair dryer",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/nalk-rey-hair-dryer/02-attachments.jpg",
+        "alt": "Hair dryer with diffuser and concentrator nozzle",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/nalk-rey-hair-dryer/03-controls.jpg",
+        "alt": "Hair dryer heat and speed controls",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "ikea-lack-side-table",
+    "name": "IKEA LACK Side Table",
+    "price": 0,
+    "description": "White IKEA side table. In great condition apart from a small scratch, shown in the photos.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/ikea-lack-side-table/01-main.jpg",
+        "alt": "White IKEA LACK side table",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-lack-side-table/02-scratch.jpg",
+        "alt": "Close-up of the small scratch on the side table",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "tristar-hand-blender",
+    "name": "Tristar MX-4150 Hand Blender",
+    "price": 0,
+    "description": "White stick blender with its original box. In great condition.",
+    "category": "Kitchenware",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/tristar-hand-blender/01-main.jpg",
+        "alt": "Tristar hand blender",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/tristar-hand-blender/02-blade.jpg",
+        "alt": "Close-up of the hand blender blade",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/tristar-hand-blender/03-box.jpg",
+        "alt": "Original Tristar MX-4150 box",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "inse-i5-vacuum",
+    "name": "INSE I5 Corded Stick Vacuum",
+    "price": 0,
+    "description": "Bagless corded stick vacuum with floor head, crevice tool, brush attachment and original box. In great condition.",
+    "category": "Household",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/inse-i5-vacuum/01-main.jpg",
+        "alt": "Blue and black INSE stick vacuum",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/inse-i5-vacuum/02-box.jpg",
+        "alt": "INSE I5 original box",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/inse-i5-vacuum/03-accessories.jpg",
+        "alt": "Vacuum brush, crevice tool and filter",
+        "width": 1200,
+        "height": 900
+      }
+    ]
+  },
+  {
+    "id": "framed-fox-hunting-print",
+    "name": "Framed Fox Hunting Print",
+    "price": 0,
+    "description": "Thrifted art: “Fox Hunting going into Cover” print in a brown and gold frame.",
+    "category": "Decor",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/framed-fox-hunting-print/01.jpg",
+        "alt": "Framed fox hunting print",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/framed-fox-hunting-print/02.jpg",
+        "alt": "Side view of the brown and gold frame",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/framed-fox-hunting-print/03.jpg",
+        "alt": "Detail of the fox hunting print",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "jewelry-holder",
+    "name": "Jewelry Holder",
+    "price": 0,
+    "description": "Black metal jewelry stand with several tiers for necklaces, bracelets and earrings. Jewelry not included. ;)",
+    "category": "Decor",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/jewelry-holder/01.jpg",
+        "alt": "Black metal jewelry holder; jewelry not included",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/jewelry-holder/02.jpg",
+        "alt": "Close-up of the jewelry holder",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "ikea-table-lamp",
+    "name": "IKEA Table Lamp",
+    "price": 0,
+    "description": "Small white table lamp with a pleated shade and an inline switch.",
+    "category": "Lighting",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/ikea-table-lamp/01.jpg",
+        "alt": "White IKEA table lamp switched on",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-table-lamp/02.jpg",
+        "alt": "Another view of the white table lamp",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "collapsible-hamper",
+    "name": "Collapsible Laundry Hamper",
+    "price": 0,
+    "description": "Beige and white striped laundry hamper with handles and a fabric lid. Collapses down for storage.",
+    "category": "Household",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/collapsible-hamper/01.jpg",
+        "alt": "Striped laundry hamper at full height",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/collapsible-hamper/02.jpg",
+        "alt": "Laundry hamper collapsed for storage",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "ise-exercise-bike",
+    "name": "ISE Folding Exercise Bike",
+    "price": 15,
+    "description": "Compact folding exercise bike with 8 resistance levels, a height-adjustable padded saddle and pedals with straps. LCD display for time, speed, distance, calories and pulse, with handlebar pulse sensors.",
+    "category": "Fitness",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/ise-exercise-bike/01.jpg",
+        "alt": "White ISE exercise bike unfolded",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ise-exercise-bike/02.jpg",
+        "alt": "ISE exercise bike folded for storage",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ise-exercise-bike/03.jpg",
+        "alt": "LCD exercise display",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ise-exercise-bike/04.jpg",
+        "alt": "Eight-level resistance dial",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ise-exercise-bike/05.jpg",
+        "alt": "Adjustable padded saddle",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ise-exercise-bike/06.jpg",
+        "alt": "ISE branding and pedal strap",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "carrefour-standing-fan",
+    "name": "Carrefour Home Standing Fan",
+    "price": 10,
+    "description": "White standing fan with 3 speeds and an oscillating head.",
+    "category": "Household",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/carrefour-standing-fan/01.jpg",
+        "alt": "Carrefour Home standing fan",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/carrefour-standing-fan/02.jpg",
+        "alt": "Three-speed and oscillation controls",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/carrefour-standing-fan/03.jpg",
+        "alt": "Carrefour Home branding",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "ikea-vesken-shelf",
+    "name": "IKEA VESKEN Bathroom Shelf",
+    "price": 0,
+    "description": "Sturdy white plastic shelving unit with 4 shelves, raised edges and drainage holes. Handy for bathroom toiletries or other small items. Approx. 37 W × 23 D × 101 H cm.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/ikea-vesken-shelf/01.jpg",
+        "alt": "White IKEA VESKEN four-tier shelf",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-vesken-shelf/02.jpg",
+        "alt": "Side view of the bathroom shelf",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-vesken-shelf/03.jpg",
+        "alt": "Detail of the shelves and drainage holes",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "philips-air-purifier",
+    "name": "Philips 600i Air Purifier",
+    "price": 10,
+    "description": "Compact white connected air purifier with HEPA NanoProtect filtration, Wi-Fi/app control and sleep mode. Rated for rooms up to 44 m², with a clean air delivery rate of 170 m³/h. Original box included.",
+    "category": "Household",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/philips-air-purifier/01.jpg",
+        "alt": "White Philips 600 series air purifier",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/philips-air-purifier/02.jpg",
+        "alt": "Top controls and Wi-Fi indicator",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/philips-air-purifier/03.jpg",
+        "alt": "Another view of the purifier controls",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/philips-air-purifier/04.jpg",
+        "alt": "Original Philips 600 series box",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "ikea-remtang-lamps",
+    "name": "IKEA REMTÅNG Table Lamps — Pair",
+    "price": 10,
+    "description": "Pair of matching sage / grey-green table lamps with substantial metal bases and pleated shades that give a soft, warm glow. Each is 37 cm tall with a 25 cm shade diameter. Price is for both lamps.",
+    "category": "Lighting",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/ikea-remtang-lamps/01.jpg",
+        "alt": "Pair of sage-green IKEA REMTÅNG table lamps switched on",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "ikea-jonaxel-wardrobe",
+    "name": "IKEA JONAXEL Open Wardrobe System",
+    "price": 40,
+    "description": "Sturdy, modular white clothes storage system with two stacked towers, four clothes rails and eight pull-out baskets (four fine mesh and four square-wire). The rails can be positioned at different heights; the lower central rail works well for hanging trousers. Includes two base frames and two taller upper frames. Can be reconfigured or expanded with additional JONAXEL pieces. Clothes not included. ;) Approximately €175 new when we bought it.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/ikea-jonaxel-wardrobe/01.jpg",
+        "alt": "Complete white IKEA JONAXEL wardrobe with two towers and central hanging rails",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-jonaxel-wardrobe/02.jpg",
+        "alt": "Front view of the complete clothes storage system",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-jonaxel-wardrobe/03.jpg",
+        "alt": "Side view of a tower with hanging space above four baskets",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-jonaxel-wardrobe/04.jpg",
+        "alt": "Angled view showing both towers and central clothes rails",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-jonaxel-wardrobe/05.jpg",
+        "alt": "Square-wire basket pulled out to show its storage space",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-jonaxel-wardrobe/06.jpg",
+        "alt": "Close-up of the adjustable central hanging rail",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-jonaxel-wardrobe/07.jpg",
+        "alt": "Lower central rail used for hanging trousers",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-jonaxel-wardrobe/08.jpg",
+        "alt": "Close-up of the lower rail and basket tower",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "rowenta-tower-fan",
+    "name": "Rowenta Eole Infinite Tower Fan",
+    "price": 15,
+    "description": "Quiet, solid tower fan, barely used. Bought new for €70 at the end of the summer for visiting guests. Three speeds, 180° oscillation and a timer up to three hours. Includes the original box.",
+    "category": "Appliances",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/rowenta-tower-fan/03.jpg",
+        "alt": "Front view of the Rowenta fan alongside its original box",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/rowenta-tower-fan/01.jpg",
+        "alt": "Rowenta Eole Infinite tower fan viewed from the side with its original box",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/rowenta-tower-fan/02.jpg",
+        "alt": "Fan controls showing three speeds, oscillation and timer",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "vintage-acrylic-tables",
+    "name": "Vintage Smoked Acrylic Side Tables — Pair",
+    "price": 0,
+    "description": "Pair of vintage side tables with dark smoked acrylic tops, metal legs and a distinctive shape. Could be used as nightstands, side tables or plant stands. Well worn, with extensive scratches on the tops (shown in the photos). Free for the pair.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/vintage-acrylic-tables/01.jpg",
+        "alt": "Vintage smoked acrylic side table with metal legs",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/vintage-acrylic-tables/02.jpg",
+        "alt": "Angled view showing the shape and scratched acrylic top",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/vintage-acrylic-tables/03.jpg",
+        "alt": "Close-up of extensive scratches on the acrylic tabletop",
+        "width": 1200,
+        "height": 900
+      }
+    ]
+  },
+  {
+    "id": "ikea-desk-chair",
+    "name": "IKEA Desk Chair",
+    "price": 0,
+    "description": "Black IKEA desk chair with armrests and castors. Bought secondhand and visibly worn, including scratches on the armrests, but still does the job. Free.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/ikea-desk-chair/01.jpg",
+        "alt": "Black IKEA desk chair viewed from the front",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-desk-chair/02.jpg",
+        "alt": "Side view of the desk chair",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-desk-chair/03.jpg",
+        "alt": "Close-up of scratches and wear on the armrest",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-desk-chair/04.jpg",
+        "alt": "Close-up of the chair backrest",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "folding-lounge-chairs",
+    "name": "Comfy Folding Lounge Chairs — Set of 3",
+    "price": 0,
+    "description": "Set of three super-comfy green padded folding lounge chairs, made in Italy. Removable, washable covers and plenty of life left. Bought secondhand, with some superficial rust on the frame finish (shown in the photos). Much loved — we wish we could bring them home to Canada! Free for the set.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/folding-lounge-chairs/01.jpg",
+        "alt": "Set of three green padded folding lounge chairs",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/folding-lounge-chairs/02.jpg",
+        "alt": "Green folding lounge chair viewed from the front",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/folding-lounge-chairs/03.jpg",
+        "alt": "Angled view of a padded folding chair",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/folding-lounge-chairs/04.jpg",
+        "alt": "Close-up of the padded seat and backrest",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/folding-lounge-chairs/05.jpg",
+        "alt": "One chair open with two folded for storage",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/folding-lounge-chairs/06.jpg",
+        "alt": "Chair folded flat, viewed from behind",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/folding-lounge-chairs/07.jpg",
+        "alt": "Superficial rust on the metal chair frame",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/folding-lounge-chairs/08.jpg",
+        "alt": "Made in Italy label on the removable cover",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "sturdy-wood-metal-desk",
+    "name": "Sturdy Wood & Metal Desk",
+    "price": 5,
+    "description": "Heavy-duty, very sturdy desk with a wood top and black metal legs. 130 L × 70 D × 72 H cm. Generally in nice condition, with small marks on one corner (shown in the photos), which could be hidden against a wall.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/sturdy-wood-metal-desk/01.jpg",
+        "alt": "Full view of the wood-top desk with black metal legs",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/sturdy-wood-metal-desk/02.jpg",
+        "alt": "Angled view of the sturdy desk",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/sturdy-wood-metal-desk/03.jpg",
+        "alt": "Close-up of the wood desktop",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/sturdy-wood-metal-desk/04.jpg",
+        "alt": "Small marks on one corner of the desktop",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/sturdy-wood-metal-desk/05.jpg",
+        "alt": "Black metal frame and desk legs",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "plywood-side-tables-pair-1",
+    "name": "Plywood Side Tables — Pair 1 of 2",
+    "price": 5,
+    "description": "Pair of pretty sturdy side tables or nightstands with nice thick plywood tops and black-painted wooden bases. Each measures 60 × 40 × 50 H cm. Matches the longer handmade tables listed here. Four tables available in total, sold as two pairs at €5 per pair.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/plywood-side-tables/01.jpg",
+        "alt": "Side table showing the thick plywood top and black-painted wooden base",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/plywood-side-tables/02.jpg",
+        "alt": "Angled view of the plywood side table",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "plywood-side-tables-pair-2",
+    "name": "Plywood Side Tables — Pair 2 of 2",
+    "price": 5,
+    "description": "Pair of pretty sturdy side tables or nightstands with nice thick plywood tops and black-painted wooden bases. Each measures 60 × 40 × 50 H cm. Matches the longer handmade tables listed here. Four tables available in total, sold as two pairs at €5 per pair.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/plywood-side-tables/01.jpg",
+        "alt": "Side table showing the thick plywood top and black-painted wooden base",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/plywood-side-tables/02.jpg",
+        "alt": "Angled view of the plywood side table",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  }
+]
