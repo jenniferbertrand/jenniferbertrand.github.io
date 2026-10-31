@@ -2,7 +2,7 @@
   {
     "id": "lagrange-pizza-oven",
     "name": "Lagrange Electric Pizza Oven",
-    "price": 40,
+    "price": 25,
     "description": "Works great! Heats up to 430°C. Includes pizza stone, peel and original box.",
     "category": "Kitchenware",
     "status": "available",
@@ -383,7 +383,7 @@
   {
     "id": "nutribullet",
     "name": "Nutribullet Blender",
-    "price": 5,
+    "price": 10,
     "description": "Nutribullet blender with blending cup and blade attachment. In great condition.",
     "category": "Kitchenware",
     "status": "available",
@@ -1144,6 +1144,303 @@
         "alt": "Angled view of the plywood side table",
         "width": 900,
         "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "butter-yellow-couch",
+    "name": "Butter-Yellow Couch",
+    "price": 0,
+    "description": "Lovely butter-yellow couch with wood trim, bought secondhand and still in very nice shape. We wish we could bring this one home to Canada!",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/butter-yellow-couch/01.jpg",
+        "alt": "Full view of the butter-yellow couch",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/butter-yellow-couch/02.jpg",
+        "alt": "Butter-yellow couch with wood trim",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/butter-yellow-couch/03.jpg",
+        "alt": "Angled view of the couch and cushions",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/butter-yellow-couch/04.jpg",
+        "alt": "Close-up of the couch upholstery and piping",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/butter-yellow-couch/05.jpg",
+        "alt": "Detail of the upholstery texture and stitching",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "vintage-glass-dining-table",
+    "name": "Vintage Glass Dining Table",
+    "price": 0,
+    "description": "Round glass dining table with a sturdy vintage wicker/rattan base and worn green paint. Bought secondhand. The glass top has visible scratches and a couple of edge chips, shown in the close-up photos.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/vintage-glass-dining-table/01.jpg",
+        "alt": "Vintage Glass Dining Table, full view",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/vintage-glass-dining-table/02.jpg",
+        "alt": "Vintage Glass Dining Table, detail photo 2",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/vintage-glass-dining-table/03.jpg",
+        "alt": "Vintage Glass Dining Table, detail photo 3",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/vintage-glass-dining-table/04.jpg",
+        "alt": "Vintage Glass Dining Table, detail photo 4",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/vintage-glass-dining-table/05.jpg",
+        "alt": "Vintage Glass Dining Table, detail photo 5",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/vintage-glass-dining-table/06.jpg",
+        "alt": "Vintage Glass Dining Table, detail photo 6",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "vintage-dining-chairs",
+    "name": "Vintage Dining Chairs — Set of 4",
+    "price": 0,
+    "description": "Four different vintage wooden chairs, each with a black tie-on seat cushion included. In fair vintage condition, with the marks and wear you would expect from older chairs. Free as a set of four.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/vintage-dining-chairs/01.jpg",
+        "alt": "Vintage Dining Chairs — Set of 4, full view",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/vintage-dining-chairs/02.jpg",
+        "alt": "Vintage Dining Chairs — Set of 4, detail photo 2",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/vintage-dining-chairs/03.jpg",
+        "alt": "Vintage Dining Chairs — Set of 4, detail photo 3",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/vintage-dining-chairs/04.jpg",
+        "alt": "Vintage Dining Chairs — Set of 4, detail photo 4",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/vintage-dining-chairs/05.jpg",
+        "alt": "Vintage Dining Chairs — Set of 4, detail photo 5",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "vintage-nesting-plant-stands",
+    "name": "Vintage Nesting Plant Stands — Set of 3",
+    "price": 0,
+    "description": "Three secondhand metal plant stands with curved legs and pretty floral details. They nest together for storage. Well-loved vintage condition, with worn and chipped paint. Free for the set!",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/vintage-nesting-plant-stands/01.jpg",
+        "alt": "Three vintage metal plant stands displayed together",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/vintage-nesting-plant-stands/02.jpg",
+        "alt": "The three plant stands nested together",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/vintage-nesting-plant-stands/03.jpg",
+        "alt": "Close-up of the floral details and worn paint",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/vintage-nesting-plant-stands/04.jpg",
+        "alt": "Another view of the three nesting plant stands",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "coat-rack-with-shelves",
+    "name": "Coat Rack with Wooden Shelves",
+    "price": 0,
+    "description": "Very sturdy coat rack with a black metal frame, plenty of hooks and four wooden shelves. Holds lots of coats, with room for hats, shoes or baskets below. Some baskets can be included if wanted. Personal items not included. ;)",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/coat-rack-with-shelves/01.jpg",
+        "alt": "Full view of the coat rack and four wooden shelves",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/coat-rack-with-shelves/02.jpg",
+        "alt": "Another view of the coat rack",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/coat-rack-with-shelves/03.jpg",
+        "alt": "Close-up of the black metal hooks and wooden shelves",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/coat-rack-with-shelves/04.jpg",
+        "alt": "Coat rack shown with optional storage baskets",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "wooden-shoe-rack",
+    "name": "Wooden Shoe Rack",
+    "price": 0,
+    "description": "Light wooden shoe rack with two slatted shelves. In good condition. Shoes not included. ;)",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/wooden-shoe-rack/01.jpg",
+        "alt": "Wooden shoe rack with two shelves",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/wooden-shoe-rack/02.jpg",
+        "alt": "Wooden shoe rack viewed from above",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "leather-desk-chair",
+    "name": "Leather Desk Chair",
+    "price": 0,
+    "description": "Solid black leather desk chair, bought secondhand. Some scratches and worn patches on the back, shown in the photos; otherwise in good condition.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/leather-desk-chair/01.jpg",
+        "alt": "Black leather desk chair",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/leather-desk-chair/02.jpg",
+        "alt": "Close-up of the leather seat and backrest",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/leather-desk-chair/03.jpg",
+        "alt": "Scratches and worn patches on the back of the chair",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "large-white-office-desk",
+    "name": "Large White Office Desk",
+    "price": 0,
+    "description": "Large, very solid white office desk with a generous work surface and sturdy base. Monitors, monitor stand and other desk items not included. ;)",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/large-white-office-desk/01.jpg",
+        "alt": "Large white office desk",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/large-white-office-desk/02.jpg",
+        "alt": "White office desk and sturdy base viewed from the front",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/large-white-office-desk/03.jpg",
+        "alt": "White office desk viewed from the side",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "wooden-monitor-stand",
+    "name": "Wooden Monitor Stand",
+    "price": 0,
+    "description": "Light brown wood-effect monitor stand with open storage space underneath. Monitors and other desk items not included. ;)",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/wooden-monitor-stand/01.jpg",
+        "alt": "Light brown monitor stand with storage space underneath",
+        "width": 1200,
+        "height": 900
       }
     ]
   }
