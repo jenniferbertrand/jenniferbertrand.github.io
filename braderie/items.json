@@ -1,5 +1,257 @@
 [
   {
+    "id": "butter-yellow-couch",
+    "name": "Butter-Yellow Couch",
+    "price": 0,
+    "description": "Lovely butter-yellow couch with wood trim, bought secondhand and still in very nice shape. We wish we could bring this one home to Canada!",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/butter-yellow-couch/01.jpg",
+        "alt": "Full view of the butter-yellow couch",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/butter-yellow-couch/02.jpg",
+        "alt": "Butter-yellow couch with wood trim",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/butter-yellow-couch/03.jpg",
+        "alt": "Angled view of the couch and cushions",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/butter-yellow-couch/04.jpg",
+        "alt": "Close-up of the couch upholstery and piping",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/butter-yellow-couch/05.jpg",
+        "alt": "Detail of the upholstery texture and stitching",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "coat-rack-with-shelves",
+    "name": "Coat Rack with Wooden Shelves",
+    "price": 0,
+    "description": "Very sturdy coat rack with a black metal frame, plenty of hooks and four wooden shelves. Holds lots of coats, with room for hats, shoes or baskets below. Some baskets can be included if wanted. Personal items not included. ;)",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/coat-rack-with-shelves/01.jpg",
+        "alt": "Full view of the coat rack and four wooden shelves",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/coat-rack-with-shelves/02.jpg",
+        "alt": "Another view of the coat rack",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/coat-rack-with-shelves/03.jpg",
+        "alt": "Close-up of the black metal hooks and wooden shelves",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/coat-rack-with-shelves/04.jpg",
+        "alt": "Coat rack shown with optional storage baskets",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "leather-desk-chair",
+    "name": "Leather Desk Chair",
+    "price": 0,
+    "description": "Solid black leather desk chair, bought secondhand. Some scratches and worn patches on the back, shown in the photos; otherwise in good condition.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/leather-desk-chair/01.jpg",
+        "alt": "Black leather desk chair",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/leather-desk-chair/02.jpg",
+        "alt": "Close-up of the leather seat and backrest",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/leather-desk-chair/03.jpg",
+        "alt": "Scratches and worn patches on the back of the chair",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "folding-lounge-chairs",
+    "name": "Comfy Folding Lounge Chairs — Set of 3",
+    "price": 0,
+    "description": "Set of three super-comfy green padded folding lounge chairs, made in Italy. Removable, washable covers and plenty of life left. Bought secondhand, with some superficial rust on the frame finish (shown in the photos). Much loved — we wish we could bring them home to Canada! Free for the set.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/folding-lounge-chairs/01.jpg",
+        "alt": "Set of three green padded folding lounge chairs",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/folding-lounge-chairs/02.jpg",
+        "alt": "Green folding lounge chair viewed from the front",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/folding-lounge-chairs/03.jpg",
+        "alt": "Angled view of a padded folding chair",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/folding-lounge-chairs/04.jpg",
+        "alt": "Close-up of the padded seat and backrest",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/folding-lounge-chairs/05.jpg",
+        "alt": "One chair open with two folded for storage",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/folding-lounge-chairs/06.jpg",
+        "alt": "Chair folded flat, viewed from behind",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/folding-lounge-chairs/07.jpg",
+        "alt": "Superficial rust on the metal chair frame",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/folding-lounge-chairs/08.jpg",
+        "alt": "Made in Italy label on the removable cover",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "rowenta-tower-fan",
+    "name": "Rowenta Eole Infinite Tower Fan",
+    "price": 15,
+    "description": "Quiet, solid tower fan, barely used. Bought new for €70 at the end of the summer for visiting guests. Three speeds, 180° oscillation and a timer up to three hours. Includes the original box.",
+    "category": "Appliances",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/rowenta-tower-fan/03.jpg",
+        "alt": "Front view of the Rowenta fan alongside its original box",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/rowenta-tower-fan/01.jpg",
+        "alt": "Rowenta Eole Infinite tower fan viewed from the side with its original box",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/rowenta-tower-fan/02.jpg",
+        "alt": "Fan controls showing three speeds, oscillation and timer",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "ikea-jonaxel-wardrobe",
+    "name": "IKEA JONAXEL Open Wardrobe System",
+    "price": 40,
+    "description": "Sturdy, modular white clothes storage system with two stacked towers, four clothes rails and eight pull-out baskets (four fine mesh and four square-wire). The rails can be positioned at different heights; the lower central rail works well for hanging trousers. Includes two base frames and two taller upper frames. Can be reconfigured or expanded with additional JONAXEL pieces. Clothes not included. ;) Approximately €175 new when we bought it.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/ikea-jonaxel-wardrobe/01.jpg",
+        "alt": "Complete white IKEA JONAXEL wardrobe with two towers and central hanging rails",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-jonaxel-wardrobe/02.jpg",
+        "alt": "Front view of the complete clothes storage system",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-jonaxel-wardrobe/03.jpg",
+        "alt": "Side view of a tower with hanging space above four baskets",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-jonaxel-wardrobe/04.jpg",
+        "alt": "Angled view showing both towers and central clothes rails",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-jonaxel-wardrobe/05.jpg",
+        "alt": "Square-wire basket pulled out to show its storage space",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-jonaxel-wardrobe/06.jpg",
+        "alt": "Close-up of the adjustable central hanging rail",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-jonaxel-wardrobe/07.jpg",
+        "alt": "Lower central rail used for hanging trousers",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/ikea-jonaxel-wardrobe/08.jpg",
+        "alt": "Close-up of the lower rail and basket tower",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
     "id": "lagrange-pizza-oven",
     "name": "Lagrange Electric Pizza Oven",
     "price": 25,
@@ -850,94 +1102,6 @@
     ]
   },
   {
-    "id": "ikea-jonaxel-wardrobe",
-    "name": "IKEA JONAXEL Open Wardrobe System",
-    "price": 40,
-    "description": "Sturdy, modular white clothes storage system with two stacked towers, four clothes rails and eight pull-out baskets (four fine mesh and four square-wire). The rails can be positioned at different heights; the lower central rail works well for hanging trousers. Includes two base frames and two taller upper frames. Can be reconfigured or expanded with additional JONAXEL pieces. Clothes not included. ;) Approximately €175 new when we bought it.",
-    "category": "Furniture",
-    "status": "available",
-    "availability": "",
-    "photos": [
-      {
-        "src": "images/ikea-jonaxel-wardrobe/01.jpg",
-        "alt": "Complete white IKEA JONAXEL wardrobe with two towers and central hanging rails",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/ikea-jonaxel-wardrobe/02.jpg",
-        "alt": "Front view of the complete clothes storage system",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/ikea-jonaxel-wardrobe/03.jpg",
-        "alt": "Side view of a tower with hanging space above four baskets",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/ikea-jonaxel-wardrobe/04.jpg",
-        "alt": "Angled view showing both towers and central clothes rails",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/ikea-jonaxel-wardrobe/05.jpg",
-        "alt": "Square-wire basket pulled out to show its storage space",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/ikea-jonaxel-wardrobe/06.jpg",
-        "alt": "Close-up of the adjustable central hanging rail",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/ikea-jonaxel-wardrobe/07.jpg",
-        "alt": "Lower central rail used for hanging trousers",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/ikea-jonaxel-wardrobe/08.jpg",
-        "alt": "Close-up of the lower rail and basket tower",
-        "width": 900,
-        "height": 1200
-      }
-    ]
-  },
-  {
-    "id": "rowenta-tower-fan",
-    "name": "Rowenta Eole Infinite Tower Fan",
-    "price": 15,
-    "description": "Quiet, solid tower fan, barely used. Bought new for €70 at the end of the summer for visiting guests. Three speeds, 180° oscillation and a timer up to three hours. Includes the original box.",
-    "category": "Appliances",
-    "status": "available",
-    "availability": "",
-    "photos": [
-      {
-        "src": "images/rowenta-tower-fan/03.jpg",
-        "alt": "Front view of the Rowenta fan alongside its original box",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/rowenta-tower-fan/01.jpg",
-        "alt": "Rowenta Eole Infinite tower fan viewed from the side with its original box",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/rowenta-tower-fan/02.jpg",
-        "alt": "Fan controls showing three speeds, oscillation and timer",
-        "width": 900,
-        "height": 1200
-      }
-    ]
-  },
-  {
     "id": "vintage-acrylic-tables",
     "name": "Vintage Smoked Acrylic Side Tables — Pair",
     "price": 0,
@@ -996,65 +1160,6 @@
       {
         "src": "images/ikea-desk-chair/04.jpg",
         "alt": "Close-up of the chair backrest",
-        "width": 900,
-        "height": 1200
-      }
-    ]
-  },
-  {
-    "id": "folding-lounge-chairs",
-    "name": "Comfy Folding Lounge Chairs — Set of 3",
-    "price": 0,
-    "description": "Set of three super-comfy green padded folding lounge chairs, made in Italy. Removable, washable covers and plenty of life left. Bought secondhand, with some superficial rust on the frame finish (shown in the photos). Much loved — we wish we could bring them home to Canada! Free for the set.",
-    "category": "Furniture",
-    "status": "available",
-    "availability": "",
-    "photos": [
-      {
-        "src": "images/folding-lounge-chairs/01.jpg",
-        "alt": "Set of three green padded folding lounge chairs",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/folding-lounge-chairs/02.jpg",
-        "alt": "Green folding lounge chair viewed from the front",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/folding-lounge-chairs/03.jpg",
-        "alt": "Angled view of a padded folding chair",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/folding-lounge-chairs/04.jpg",
-        "alt": "Close-up of the padded seat and backrest",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/folding-lounge-chairs/05.jpg",
-        "alt": "One chair open with two folded for storage",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/folding-lounge-chairs/06.jpg",
-        "alt": "Chair folded flat, viewed from behind",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/folding-lounge-chairs/07.jpg",
-        "alt": "Superficial rust on the metal chair frame",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/folding-lounge-chairs/08.jpg",
-        "alt": "Made in Italy label on the removable cover",
         "width": 900,
         "height": 1200
       }
@@ -1142,47 +1247,6 @@
       {
         "src": "images/plywood-side-tables/02.jpg",
         "alt": "Angled view of the plywood side table",
-        "width": 900,
-        "height": 1200
-      }
-    ]
-  },
-  {
-    "id": "butter-yellow-couch",
-    "name": "Butter-Yellow Couch",
-    "price": 0,
-    "description": "Lovely butter-yellow couch with wood trim, bought secondhand and still in very nice shape. We wish we could bring this one home to Canada!",
-    "category": "Furniture",
-    "status": "available",
-    "availability": "",
-    "photos": [
-      {
-        "src": "images/butter-yellow-couch/01.jpg",
-        "alt": "Full view of the butter-yellow couch",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/butter-yellow-couch/02.jpg",
-        "alt": "Butter-yellow couch with wood trim",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/butter-yellow-couch/03.jpg",
-        "alt": "Angled view of the couch and cushions",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/butter-yellow-couch/04.jpg",
-        "alt": "Close-up of the couch upholstery and piping",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/butter-yellow-couch/05.jpg",
-        "alt": "Detail of the upholstery texture and stitching",
         "width": 900,
         "height": 1200
       }
@@ -1312,41 +1376,6 @@
     ]
   },
   {
-    "id": "coat-rack-with-shelves",
-    "name": "Coat Rack with Wooden Shelves",
-    "price": 0,
-    "description": "Very sturdy coat rack with a black metal frame, plenty of hooks and four wooden shelves. Holds lots of coats, with room for hats, shoes or baskets below. Some baskets can be included if wanted. Personal items not included. ;)",
-    "category": "Furniture",
-    "status": "available",
-    "availability": "",
-    "photos": [
-      {
-        "src": "images/coat-rack-with-shelves/01.jpg",
-        "alt": "Full view of the coat rack and four wooden shelves",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/coat-rack-with-shelves/02.jpg",
-        "alt": "Another view of the coat rack",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/coat-rack-with-shelves/03.jpg",
-        "alt": "Close-up of the black metal hooks and wooden shelves",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/coat-rack-with-shelves/04.jpg",
-        "alt": "Coat rack shown with optional storage baskets",
-        "width": 900,
-        "height": 1200
-      }
-    ]
-  },
-  {
     "id": "wooden-shoe-rack",
     "name": "Wooden Shoe Rack",
     "price": 0,
@@ -1364,35 +1393,6 @@
       {
         "src": "images/wooden-shoe-rack/02.jpg",
         "alt": "Wooden shoe rack viewed from above",
-        "width": 900,
-        "height": 1200
-      }
-    ]
-  },
-  {
-    "id": "leather-desk-chair",
-    "name": "Leather Desk Chair",
-    "price": 0,
-    "description": "Solid black leather desk chair, bought secondhand. Some scratches and worn patches on the back, shown in the photos; otherwise in good condition.",
-    "category": "Furniture",
-    "status": "available",
-    "availability": "",
-    "photos": [
-      {
-        "src": "images/leather-desk-chair/01.jpg",
-        "alt": "Black leather desk chair",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/leather-desk-chair/02.jpg",
-        "alt": "Close-up of the leather seat and backrest",
-        "width": 900,
-        "height": 1200
-      },
-      {
-        "src": "images/leather-desk-chair/03.jpg",
-        "alt": "Scratches and worn patches on the back of the chair",
         "width": 900,
         "height": 1200
       }
