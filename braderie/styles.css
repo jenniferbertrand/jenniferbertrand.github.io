@@ -18,6 +18,10 @@ h2 { font: 400 1.65rem/1.25 Georgia, serif; margin: 0; }
 #count { color: var(--muted); font-size: .85rem; white-space: nowrap; }
 .catalogue { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 26px; align-items: start; }
 .card { min-width: 0; background: #fffdf9; border: 1px solid var(--line); border-radius: 16px; overflow: hidden; }
+.card.unavailable { background: #f0efec; }
+.card.unavailable .gallery { filter: grayscale(1); opacity: .6; }
+.card.unavailable .price { color: var(--muted); }
+.card.unavailable .status { background: #e0ded9; color: #615d57; }
 .gallery { position: relative; background: #eeece4; }
 .photos { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; }
 .photos::-webkit-scrollbar { display: none; }

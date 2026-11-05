@@ -10,6 +10,8 @@ From the repository root, run `python3 -m http.server 8000`, then visit http://l
 
 Edit `items.json`; no HTML edits are necessary. Each item has a permanent unique `id`, `name`, numeric euro `price` (0 means Free), `description`, `category`, `status` (`available`, `reserved`, or `sold`), optional `availability`, and `photos` array. Keep IDs stable so direct links such as `/braderie/#lagrange-pizza-oven` keep working.
 
+To mark an item as taken, change its `"status": "available"` to `"status": "reserved"`. It will show **Spoken for**, turn grey, and move below available items, including in filtered views. Change it back to `"available"` to restore it. Publish the updated file to update the live page.
+
 Store web-sized photos in `images/<item-id>/`. Each photo entry looks like:
 
 ```json

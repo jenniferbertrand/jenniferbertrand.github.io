@@ -5,7 +5,7 @@
     "price": 0,
     "description": "Lovely butter-yellow couch with wood trim, bought secondhand and still in very nice shape. We wish we could bring this one home to Canada!",
     "category": "Furniture",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -46,7 +46,7 @@
     "price": 0,
     "description": "Very sturdy coat rack with a black metal frame, plenty of hooks and four wooden shelves. Holds lots of coats, with room for hats, shoes or baskets below. Some baskets can be included if wanted. Personal items not included. ;)",
     "category": "Furniture",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -110,7 +110,7 @@
     "price": 0,
     "description": "Set of three super-comfy green padded folding lounge chairs, made in Italy. Removable, washable covers and plenty of life left. Bought secondhand, with some superficial rust on the frame finish (shown in the photos). Much loved — we wish we could bring them home to Canada! Free for the set.",
     "category": "Furniture",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -169,7 +169,7 @@
     "price": 15,
     "description": "Quiet, solid tower fan, barely used. Bought new for €70 at the end of the summer for visiting guests. Three speeds, 180° oscillation and a timer up to three hours. Includes the original box.",
     "category": "Appliances",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -257,7 +257,7 @@
     "price": 25,
     "description": "Works great! Heats up to 430°C. Includes pizza stone, peel and original box.",
     "category": "Kitchenware",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -350,7 +350,7 @@
     "price": 0,
     "description": "White paper floor lamp with a soft, cosy glow and a foot switch. Free to a new home!",
     "category": "Lighting",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -373,7 +373,7 @@
     "price": 5,
     "description": "White folding clothes drying rack. In great condition, no issues.",
     "category": "Household",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -396,7 +396,7 @@
     "price": 10,
     "description": "1300 W stand mixer with a 5 L stainless steel bowl and 12 speeds. Includes whisk, flat beater, dough hook, splash guard and original box.",
     "category": "Kitchenware",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -431,7 +431,7 @@
     "price": 0,
     "description": "“Hotel Olinda” by Ilana Richardson, in a black frame. 63 × 78 cm. Free to a new home!",
     "category": "Decor",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -506,7 +506,7 @@
     "price": 5,
     "description": "Four-level storage shelf with a black metal frame and particle-board shelves. A lightweight frame with a little give, but it has held plenty of our pantry supplies. 75 W × 30 D × 152 H cm. Contents not included. ;)",
     "category": "Furniture",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -535,7 +535,7 @@
     "price": 0,
     "description": "Seven glass food storage containers with plastic lids: 4 small, 2 medium and 1 large. Nest inside each other for easy storage. Free for the whole set!",
     "category": "Kitchenware",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -564,7 +564,7 @@
     "price": 0,
     "description": "Salad spinner with basket, bowl and hand-crank lid. In great condition.",
     "category": "Kitchenware",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -638,7 +638,7 @@
     "price": 10,
     "description": "Nutribullet blender with blending cup and blade attachment. In great condition.",
     "category": "Kitchenware",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -707,7 +707,7 @@
     "price": 0,
     "description": "Pretty cream ceramic dinnerware from IKEA with a subtle speckled glaze. Includes 3 large dinner plates, 4 smaller plates, 4 deep plates / shallow bowls and 2 small bowls. Free for the whole set!",
     "category": "Kitchenware",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -742,7 +742,7 @@
     "price": 0,
     "description": "Hair dryer with diffuser and concentrator nozzle. In great condition.",
     "category": "Household",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -794,7 +794,7 @@
     "price": 0,
     "description": "White stick blender with its original box. In great condition.",
     "category": "Kitchenware",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -823,7 +823,7 @@
     "price": 0,
     "description": "Bagless corded stick vacuum with floor head, crevice tool, brush attachment and original box. In great condition.",
     "category": "Household",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -904,7 +904,7 @@
     "price": 0,
     "description": "Small white table lamp with a pleated shade and an inline switch.",
     "category": "Lighting",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -927,7 +927,7 @@
     "price": 0,
     "description": "Beige and white striped laundry hamper with handles and a fabric lid. Collapses down for storage.",
     "category": "Household",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -997,7 +997,7 @@
     "price": 10,
     "description": "White standing fan with 3 speeds and an oscillating head.",
     "category": "Household",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1055,7 +1055,7 @@
     "price": 10,
     "description": "Compact white connected air purifier with HEPA NanoProtect filtration, Wi-Fi/app control and sleep mode. Rated for rooms up to 44 m², with a clean air delivery rate of 170 m³/h. Original box included.",
     "category": "Household",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1090,7 +1090,7 @@
     "price": 10,
     "description": "Pair of matching sage / grey-green table lamps with substantial metal bases and pleated shades that give a soft, warm glow. Each is 37 cm tall with a 25 cm shade diameter. Price is for both lamps.",
     "category": "Lighting",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1381,7 +1381,7 @@
     "price": 0,
     "description": "Light wooden shoe rack with two slatted shelves. In good condition. Shoes not included. ;)",
     "category": "Furniture",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1433,7 +1433,7 @@
     "price": 0,
     "description": "Light brown wood-effect monitor stand with open storage space underneath. Monitors and other desk items not included. ;)",
     "category": "Furniture",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {

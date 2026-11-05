@@ -3,6 +3,7 @@
 const catalogue = document.querySelector('#catalogue');
 const count = document.querySelector('#count');
 const euro = new Intl.NumberFormat('en-IE', { style: 'currency', currency: 'EUR', maximumFractionDigits: 2 });
+const isUnavailable = item => ['reserved', 'sold'].includes(item.status);
 const element = (tag, className, text) => {
   const node = document.createElement(tag);
   if (className) node.className = className;
@@ -11,7 +12,7 @@ const element = (tag, className, text) => {
 };
 
 function createCard(item) {
-  const card = element('article', 'card');
+  const card = element('article', isUnavailable(item) ? 'card unavailable' : 'card');
   card.id = item.id;
   const gallery = element('div', 'gallery');
   if (item.photos.length) {
@@ -63,7 +64,7 @@ function createCard(item) {
   const body = element('div', 'card-body');
   const meta = element('div', 'item-meta');
   const status = ['available', 'reserved', 'sold'].includes(item.status) ? item.status : 'available';
-  meta.append(element('span', '', item.category), element('span', `status ${status}`, status[0].toUpperCase() + status.slice(1)));
+  meta.append(element('span', '', item.category), element('span', `status ${status}`, status === 'reserved' ? 'Spoken for' : status[0].toUpperCase() + status.slice(1)));
   const title = element('div', 'title-row');
   title.append(element('h3', '', item.name), element('span', 'price', item.price === 0 ? 'Free' : euro.format(item.price)));
   body.append(meta, title, element('p', 'description', item.description));
@@ -77,6 +78,7 @@ async function loadCatalogue() {
     const response = await fetch('items.json');
     if (!response.ok) throw new Error('Could not load items');
     const items = await response.json();
+    items.sort((a, b) => Number(isUnavailable(a)) - Number(isUnavailable(b)));
     const render = (category) => {
       const visible = category === 'All' ? items : items.filter(item => category === 'Free' ? item.price === 0 : item.category === category);
       catalogue.replaceChildren(...visible.map(createCard));
