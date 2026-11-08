@@ -1443,5 +1443,376 @@
         "height": 900
       }
     ]
+  },
+  {
+    "id": "white-electric-kettle",
+    "name": "White Electric Kettle",
+    "price": 0,
+    "description": "lol Luke's description: Simple white electric kettle. Make water hot.",
+    "category": "Appliances",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/white-electric-kettle/01.jpeg",
+        "alt": "White Electric Kettle photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "medek-espresso-machine",
+    "name": "MEDEK Espresso Machine",
+    "price": 5,
+    "description": "Compact espresso machine with milk frother. Works great. Not fancy but gets the job done.",
+    "category": "Appliances",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/medek-espresso-machine/01.jpeg",
+        "alt": "MEDEK Espresso Machine photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "abstract-art",
+    "name": "Abstract art",
+    "price": 0,
+    "description": "lol Luke's description: Art. Abstract. Could be a Banksy.",
+    "category": "Decor",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/abstract-art/01.jpeg",
+        "alt": "Abstract art photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "wicker-metal-wine-rack",
+    "name": "Wicker & Metal Wine Rack",
+    "price": 0,
+    "description": "lol Luke's description: Charming little metal booze stand with a wicker top.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/wicker-metal-wine-rack/01.jpeg",
+        "alt": "Wicker & Metal Wine Rack photographed on its own",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/wicker-metal-wine-rack/02.jpeg",
+        "alt": "Wicker & Metal Wine Rack photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "black-metal-corner-stand",
+    "name": "Black Metal Corner Stand",
+    "price": 0,
+    "description": "lol Luke's description: Fits nicely in an odd or empty corner. Used as a plant stand but possibilities practically endless.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/black-metal-corner-stand/01.jpeg",
+        "alt": "Black Metal Corner Stand photographed on its own",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/black-metal-corner-stand/02.jpeg",
+        "alt": "Black Metal Corner Stand photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "taxidermy-marten",
+    "name": "Taxidermy Marten",
+    "price": 0,
+    "description": "lol Luke's description: Probably priceless. Do not want to sell. Customs will not allow it back into Canada. Just want him to be happy.",
+    "category": "Decor",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/taxidermy-marten/01.jpeg",
+        "alt": "Taxidermy Marten photographed on its own",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/taxidermy-marten/02.jpeg",
+        "alt": "Taxidermy Marten photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "vintage-pelforth-beer-mirror",
+    "name": "Vintage Pelforth Beer Mirror",
+    "price": 0,
+    "description": "lol Luke's description: Very cool and will make you/your home cooler as well.",
+    "category": "Decor",
+    "status": "reserved",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/vintage-pelforth-beer-mirror/01.jpeg",
+        "alt": "Vintage Pelforth Beer Mirror photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "industrial-concrete-stand",
+    "name": "Industrial Concrete Stand",
+    "price": 0,
+    "description": "lol Luke's description: To be honest we found it on the street, thought it was cool and lugged it home. Heavy. Used as a plant stand.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/industrial-concrete-stand/01.jpeg",
+        "alt": "Industrial Concrete Stand photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "vintage-wooden-tiled-coffee-table",
+    "name": "Vintage Wooden Tiled Coffee Table",
+    "price": 0,
+    "description": "Charming rectangular wooden coffee table with tiles. Elegant. Timeless. Sturdy.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/vintage-wooden-tiled-coffee-table/01.jpeg",
+        "alt": "Vintage Wooden Tiled Coffee Table photographed on its own",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/vintage-wooden-tiled-coffee-table/02.jpeg",
+        "alt": "Vintage Wooden Tiled Coffee Table photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "lg-flat-screen-television",
+    "name": "LG Flat-Screen Television",
+    "price": 0,
+    "description": "Works basically fine but for unknown reasons is a bit janky when using streaming apps - specifically it will 'lose connection' about once per hour or two, and require the TV to be turned off and back on (and then works fine again for the next hour+). This might just be an issue with our wifi too - we aren't sure/didn't figure it out! Otherwise no problems. Comes with remote. Free given the weirdness...",
+    "category": "Appliances",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/lg-flat-screen-television/01.jpeg",
+        "alt": "LG Flat-Screen Television photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "small-yellow-table-lamp",
+    "name": "Small Yellow Table Lamp",
+    "price": 0,
+    "description": "lol Luke's description: Small IKEA SPETSBOJ table lamp. 22cm tall. Makes light.",
+    "category": "Lighting",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/small-yellow-table-lamp/01.jpeg",
+        "alt": "Small Yellow Table Lamp photographed on its own",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/small-yellow-table-lamp/02.jpeg",
+        "alt": "Small Yellow Table Lamp photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "bright-yellow-metal-side-table-plant-stand",
+    "name": "Bright Yellow Metal Side Table/Plant Stand",
+    "price": 0,
+    "description": "lol Luke's description: Vibrant side table/plant stand. Roughly desk-height. You can put stuff on it.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/bright-yellow-metal-side-table-plant-stand/01.jpeg",
+        "alt": "Bright Yellow Metal Side Table/Plant Stand photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "padded-exercise-mat-resistance-band",
+    "name": "Padded Exercise Mat + Resistance Band",
+    "price": 5,
+    "description": "lol Luke's description: Fitness is life.",
+    "category": "Fitness",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/padded-exercise-mat-resistance-band/01.jpeg",
+        "alt": "Padded Exercise Mat + Resistance Band photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "retro-table-lamp",
+    "name": "Retro Table Lamp",
+    "price": 0,
+    "description": "Elevate your space with this funky, retro table lamp.",
+    "category": "Lighting",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/retro-table-lamp/01.jpeg",
+        "alt": "Retro Table Lamp photographed on its own",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/retro-table-lamp/02.jpeg",
+        "alt": "Retro Table Lamp photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "basketball",
+    "name": "Basketball",
+    "price": 0,
+    "description": "lol Luke's description: Is basketball.",
+    "category": "Fitness",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/basketball/01.jpeg",
+        "alt": "Basketball photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "petanque-set-with-carrying-case",
+    "name": "Petanque Set with Carrying Case",
+    "price": 5,
+    "description": "lol Luke's description: Two boules pictured, includes all six plus an extra cochonnet and magnet on a string for picking up boules without straining your back. Be more French. Play pétanque.",
+    "category": "Fitness",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/petanque-set-with-carrying-case/01.jpeg",
+        "alt": "Petanque Set with Carrying Case photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "vintage-wooden-side-table-nightstand",
+    "name": "Vintage Wooden Side Table/Nightstand",
+    "price": 0,
+    "description": "Vintage wooden side table with a warm medium-brown finish. Some wear and tear.",
+    "category": "Furniture",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/vintage-wooden-side-table-nightstand/01.jpeg",
+        "alt": "Vintage Wooden Side Table/Nightstand photographed on its own",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/vintage-wooden-side-table-nightstand/02.jpeg",
+        "alt": "Vintage Wooden Side Table/Nightstand photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "akai-mpk-mini-play-midi-keyboard-music-controller",
+    "name": "AKAI MPK Mini Play – MIDI Keyboard & Music Controller",
+    "price": 15,
+    "description": "Compact AKAI Professional MPK Mini Play keyboard and MIDI controller, featuring 25 mini keys, eight drum pads, rotary control knobs, and built-in sounds and speaker. Comes with USB cable.",
+    "category": "Appliances",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/akai-mpk-mini-play-midi-keyboard-music-controller/01.jpeg",
+        "alt": "AKAI MPK Mini Play – MIDI Keyboard & Music Controller photographed on its own",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "images/akai-mpk-mini-play-midi-keyboard-music-controller/02.jpeg",
+        "alt": "AKAI MPK Mini Play – MIDI Keyboard & Music Controller photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "dartboard",
+    "name": "Dartboard",
+    "price": 5,
+    "description": "lol Luke's description: Classic dartboard. Has seen many, many bullseyes. Comes with about a dozen darts, extra flights and sharpening stone.",
+    "category": "Fitness",
+    "status": "available",
+    "availability": "",
+    "photos": [
+      {
+        "src": "images/dartboard/01.jpeg",
+        "alt": "Dartboard photographed on its own",
+        "width": 900,
+        "height": 1200
+      }
+    ]
   }
 ]
