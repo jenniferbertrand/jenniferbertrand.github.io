@@ -81,7 +81,7 @@
     "price": 0,
     "description": "Solid black leather desk chair, bought secondhand. Some scratches and worn patches on the back, shown in the photos; otherwise in good condition.",
     "category": "Furniture",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -321,7 +321,7 @@
     "price": 10,
     "description": "Two almost matching barstools with black cushioned seats and metal frames. Not identical: the cushions and metal finish differ slightly. €10 for the pair.",
     "category": "Furniture",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -661,7 +661,7 @@
     "price": 0,
     "description": "Four green-tinted, ribbed cups in a lightweight outdoor drinkware material. In great condition. Free for the set!",
     "category": "Kitchenware",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -771,7 +771,7 @@
     "price": 0,
     "description": "White IKEA side table. In great condition apart from a small scratch, shown in the photos.",
     "category": "Furniture",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1107,7 +1107,7 @@
     "price": 0,
     "description": "Pair of vintage side tables with dark smoked acrylic tops, metal legs and a distinctive shape. Could be used as nightstands, side tables or plant stands. Well worn, with extensive scratches on the tops (shown in the photos). Free for the pair.",
     "category": "Furniture",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1136,7 +1136,7 @@
     "price": 0,
     "description": "Black IKEA desk chair with armrests and castors. Bought secondhand and visibly worn, including scratches on the armrests, but still does the job. Free.",
     "category": "Furniture",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1212,7 +1212,7 @@
     "price": 5,
     "description": "Pair of pretty sturdy side tables or nightstands with nice thick plywood tops and black-painted wooden bases. Each measures 60 × 40 × 50 H cm. Matches the longer handmade tables listed here. Four tables available in total, sold as two pairs at €5 per pair.",
     "category": "Furniture",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1235,7 +1235,7 @@
     "price": 5,
     "description": "Pair of pretty sturdy side tables or nightstands with nice thick plywood tops and black-painted wooden bases. Each measures 60 × 40 × 50 H cm. Matches the longer handmade tables listed here. Four tables available in total, sold as two pairs at €5 per pair.",
     "category": "Furniture",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1258,7 +1258,7 @@
     "price": 0,
     "description": "Round glass dining table with a sturdy vintage wicker/rattan base and worn green paint. Bought secondhand. The glass top has visible scratches and a couple of edge chips, shown in the close-up photos.",
     "category": "Furniture",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1450,7 +1450,7 @@
     "price": 0,
     "description": "lol Luke's description: Simple white electric kettle. Make water hot.",
     "category": "Appliances",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1467,7 +1467,7 @@
     "price": 5,
     "description": "Compact espresso machine with milk frother. Works great. Not fancy but gets the job done.",
     "category": "Appliances",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1484,7 +1484,7 @@
     "price": 0,
     "description": "lol Luke's description: Art. Abstract. Could be a Banksy.",
     "category": "Decor",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1587,7 +1587,7 @@
     "price": 0,
     "description": "lol Luke's description: To be honest we found it on the street, thought it was cool and lugged it home. Heavy. Used as a plant stand.",
     "category": "Furniture",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1627,7 +1627,7 @@
     "price": 0,
     "description": "Works basically fine but for unknown reasons is a bit janky when using streaming apps - specifically it will 'lose connection' about once per hour or two, and require the TV to be turned off and back on (and then works fine again for the next hour+). This might just be an issue with our wifi too - we aren't sure/didn't figure it out! Otherwise no problems. Comes with remote. Free given the weirdness...",
     "category": "Appliances",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1644,7 +1644,7 @@
     "price": 0,
     "description": "lol Luke's description: Small IKEA SPETSBOJ table lamp. 22cm tall. Makes light.",
     "category": "Lighting",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1684,7 +1684,7 @@
     "price": 5,
     "description": "lol Luke's description: Fitness is life.",
     "category": "Fitness",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1701,7 +1701,7 @@
     "price": 0,
     "description": "Elevate your space with this funky, retro table lamp.",
     "category": "Lighting",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1724,7 +1724,7 @@
     "price": 0,
     "description": "lol Luke's description: Is basketball.",
     "category": "Fitness",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
@@ -1804,7 +1804,7 @@
     "price": 5,
     "description": "lol Luke's description: Classic dartboard. Has seen many, many bullseyes. Comes with about a dozen darts, extra flights and sharpening stone.",
     "category": "Fitness",
-    "status": "available",
+    "status": "reserved",
     "availability": "",
     "photos": [
       {
